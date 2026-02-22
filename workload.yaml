@@ -1,0 +1,24 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: carbon-aware-workload
+  labels:
+    app: carbon-aware
+spec:
+  restartPolicy: Never
+  containers:
+    - name: sysbench
+      image: severalnines/sysbench
+      env:
+        - name: CPU_MAX_PRIME
+          value: "5000"
+        - name: EXEC_TIME
+          value: "60"
+      command: ["sh", "-c"]
+      args:
+        - sysbench cpu --cpu-max-prime=$CPU_MAX_PRIME --time=$EXEC_TIME run
+      resources:
+        requests:
+          cpu: "50m"
+        limits:
+          cpu: "100m"

@@ -1,0 +1,600 @@
+2026-02-02 14:08:05,544 Workload: carbon-aware-67b0395f | Recommended node: vm2 | Average carbon intensity of recommended node: 325.5 | Average carbon intensity of all nodes: {'vm1': 490.01, 'vm2': 325.5, 'vm3': 351.54}
+2026-02-02 14:08:05,545 Actual placement: Workload carbon-aware-67b0395f on node vm3
+2026-02-02 14:08:15,690 Workload: carbon-aware-10e621df | Recommended node: vm2 | Average carbon intensity of recommended node: 325.5 | Average carbon intensity of all nodes: {'vm1': 490.01, 'vm2': 325.5, 'vm3': 351.54}
+2026-02-02 14:08:15,694 Actual placement: Workload carbon-aware-10e621df on node vm1
+2026-02-02 14:08:26,025 Workload: carbon-aware-f94f5946 | Recommended node: vm2 | Average carbon intensity of recommended node: 325.5 | Average carbon intensity of all nodes: {'vm1': 490.01, 'vm2': 325.5, 'vm3': 351.54}
+2026-02-02 14:08:26,028 Actual placement: Workload carbon-aware-f94f5946 on node vm3
+2026-02-02 14:08:36,367 Workload: carbon-aware-934b850a | Recommended node: vm2 | Average carbon intensity of recommended node: 325.5 | Average carbon intensity of all nodes: {'vm1': 490.01, 'vm2': 325.5, 'vm3': 351.54}
+2026-02-02 14:08:36,370 Actual placement: Workload carbon-aware-934b850a on node vm2
+2026-02-02 14:08:46,698 Workload: carbon-aware-db46e993 | Recommended node: vm2 | Average carbon intensity of recommended node: 325.5 | Average carbon intensity of all nodes: {'vm1': 490.01, 'vm2': 325.5, 'vm3': 351.54}
+2026-02-02 14:08:46,702 Actual placement: Workload carbon-aware-db46e993 on node vm2
+2026-02-02 14:08:57,033 Workload: carbon-aware-1a6ea4ac | Recommended node: vm2 | Average carbon intensity of recommended node: 325.5 | Average carbon intensity of all nodes: {'vm1': 490.01, 'vm2': 325.5, 'vm3': 351.54}
+2026-02-02 14:08:57,035 Actual placement: Workload carbon-aware-1a6ea4ac on node vm2
+2026-02-02 14:09:07,192 Workload: carbon-aware-ffdbe28f | Recommended node: vm3 | Average carbon intensity of recommended node: 357.15 | Average carbon intensity of all nodes: {'vm1': 454.5, 'vm2': 376.14, 'vm3': 357.15}
+2026-02-02 14:09:07,198 Actual placement: Workload carbon-aware-ffdbe28f on node vm3
+2026-02-02 14:09:17,344 Workload: carbon-aware-6e165263 | Recommended node: vm3 | Average carbon intensity of recommended node: 357.15 | Average carbon intensity of all nodes: {'vm1': 454.5, 'vm2': 376.14, 'vm3': 357.15}
+2026-02-02 14:09:17,347 Actual placement: Workload carbon-aware-6e165263 on node vm1
+2026-02-02 14:09:27,679 Workload: carbon-aware-7d8ae17d | Recommended node: vm3 | Average carbon intensity of recommended node: 357.15 | Average carbon intensity of all nodes: {'vm1': 454.5, 'vm2': 376.14, 'vm3': 357.15}
+2026-02-02 14:09:27,683 Actual placement: Workload carbon-aware-7d8ae17d on node vm3
+2026-02-02 14:09:37,848 Workload: carbon-aware-7c6c1888 | Recommended node: vm3 | Average carbon intensity of recommended node: 357.15 | Average carbon intensity of all nodes: {'vm1': 454.5, 'vm2': 376.14, 'vm3': 357.15}
+2026-02-02 14:09:37,850 Actual placement: Workload carbon-aware-7c6c1888 on node vm2
+2026-02-02 14:09:47,999 Workload: carbon-aware-4b9acbc4 | Recommended node: vm3 | Average carbon intensity of recommended node: 357.15 | Average carbon intensity of all nodes: {'vm1': 454.5, 'vm2': 376.14, 'vm3': 357.15}
+2026-02-02 14:09:48,003 Actual placement: Workload carbon-aware-4b9acbc4 on node vm2
+2026-02-02 14:09:58,161 Workload: carbon-aware-fc5e607f | Recommended node: vm3 | Average carbon intensity of recommended node: 357.15 | Average carbon intensity of all nodes: {'vm1': 454.5, 'vm2': 376.14, 'vm3': 357.15}
+2026-02-02 14:09:58,165 Actual placement: Workload carbon-aware-fc5e607f on node vm3
+2026-02-02 14:10:08,322 Workload: carbon-aware-ca966be9 | Recommended node: vm3 | Average carbon intensity of recommended node: 357.31 | Average carbon intensity of all nodes: {'vm1': 439.72, 'vm2': 397.91, 'vm3': 357.31}
+2026-02-02 14:10:08,328 Actual placement: Workload carbon-aware-ca966be9 on node vm1
+2026-02-02 14:10:18,661 Workload: carbon-aware-8f85874a | Recommended node: vm3 | Average carbon intensity of recommended node: 357.31 | Average carbon intensity of all nodes: {'vm1': 439.72, 'vm2': 397.91, 'vm3': 357.31}
+2026-02-02 14:10:18,663 Actual placement: Workload carbon-aware-8f85874a on node vm3
+2026-02-02 14:10:28,825 Workload: carbon-aware-d1eb3062 | Recommended node: vm3 | Average carbon intensity of recommended node: 357.31 | Average carbon intensity of all nodes: {'vm1': 439.72, 'vm2': 397.91, 'vm3': 357.31}
+2026-02-02 14:10:28,830 Actual placement: Workload carbon-aware-d1eb3062 on node vm2
+2026-02-02 14:10:39,168 Workload: carbon-aware-40e8ee25 | Recommended node: vm3 | Average carbon intensity of recommended node: 357.31 | Average carbon intensity of all nodes: {'vm1': 439.72, 'vm2': 397.91, 'vm3': 357.31}
+2026-02-02 14:10:39,172 Actual placement: Workload carbon-aware-40e8ee25 on node vm2
+2026-02-02 14:10:49,322 Workload: carbon-aware-fd7320f0 | Recommended node: vm3 | Average carbon intensity of recommended node: 357.31 | Average carbon intensity of all nodes: {'vm1': 439.72, 'vm2': 397.91, 'vm3': 357.31}
+2026-02-02 14:10:49,326 Actual placement: Workload carbon-aware-fd7320f0 on node vm1
+2026-02-02 14:10:59,659 Workload: carbon-aware-273bab64 | Recommended node: vm3 | Average carbon intensity of recommended node: 357.31 | Average carbon intensity of all nodes: {'vm1': 439.72, 'vm2': 397.91, 'vm3': 357.31}
+2026-02-02 14:10:59,664 Actual placement: Workload carbon-aware-273bab64 on node vm2
+2026-02-02 14:11:09,815 Workload: carbon-aware-128201ca | Recommended node: vm3 | Average carbon intensity of recommended node: 352.13 | Average carbon intensity of all nodes: {'vm1': 442.1, 'vm2': 421.08, 'vm3': 352.13}
+2026-02-02 14:11:09,818 Actual placement: Workload carbon-aware-128201ca on node vm3
+2026-02-02 14:11:19,963 Workload: carbon-aware-7642d83b | Recommended node: vm3 | Average carbon intensity of recommended node: 352.13 | Average carbon intensity of all nodes: {'vm1': 442.1, 'vm2': 421.08, 'vm3': 352.13}
+2026-02-02 14:11:19,966 Actual placement: Workload carbon-aware-7642d83b on node vm2
+2026-02-02 14:11:30,320 Workload: carbon-aware-fda80936 | Recommended node: vm3 | Average carbon intensity of recommended node: 352.13 | Average carbon intensity of all nodes: {'vm1': 442.1, 'vm2': 421.08, 'vm3': 352.13}
+2026-02-02 14:11:30,324 Actual placement: Workload carbon-aware-fda80936 on node vm2
+2026-02-02 14:11:40,485 Workload: carbon-aware-934a4d69 | Recommended node: vm3 | Average carbon intensity of recommended node: 352.13 | Average carbon intensity of all nodes: {'vm1': 442.1, 'vm2': 421.08, 'vm3': 352.13}
+2026-02-02 14:11:40,496 Actual placement: Workload carbon-aware-934a4d69 on node vm1
+2026-02-02 14:11:50,637 Workload: carbon-aware-864a187b | Recommended node: vm3 | Average carbon intensity of recommended node: 352.13 | Average carbon intensity of all nodes: {'vm1': 442.1, 'vm2': 421.08, 'vm3': 352.13}
+2026-02-02 14:11:50,641 Actual placement: Workload carbon-aware-864a187b on node vm3
+2026-02-02 14:12:00,805 Workload: carbon-aware-b1c80b7d | Recommended node: vm3 | Average carbon intensity of recommended node: 352.97 | Average carbon intensity of all nodes: {'vm1': 436.95, 'vm2': 386.42, 'vm3': 352.97}
+2026-02-02 14:12:00,810 Actual placement: Workload carbon-aware-b1c80b7d on node vm2
+2026-02-02 14:12:10,964 Workload: carbon-aware-64f888ec | Recommended node: vm3 | Average carbon intensity of recommended node: 352.97 | Average carbon intensity of all nodes: {'vm1': 436.95, 'vm2': 386.42, 'vm3': 352.97}
+2026-02-02 14:12:10,969 Actual placement: Workload carbon-aware-64f888ec on node vm3
+2026-02-02 14:12:21,108 Workload: carbon-aware-7bd064f4 | Recommended node: vm3 | Average carbon intensity of recommended node: 352.97 | Average carbon intensity of all nodes: {'vm1': 436.95, 'vm2': 386.42, 'vm3': 352.97}
+2026-02-02 14:12:21,122 Actual placement: Workload carbon-aware-7bd064f4 on node vm2
+2026-02-02 14:12:31,267 Workload: carbon-aware-9df51d1b | Recommended node: vm3 | Average carbon intensity of recommended node: 352.97 | Average carbon intensity of all nodes: {'vm1': 436.95, 'vm2': 386.42, 'vm3': 352.97}
+2026-02-02 14:12:31,271 Actual placement: Workload carbon-aware-9df51d1b on node vm2
+2026-02-02 14:12:41,433 Workload: carbon-aware-efe14793 | Recommended node: vm3 | Average carbon intensity of recommended node: 352.97 | Average carbon intensity of all nodes: {'vm1': 436.95, 'vm2': 386.42, 'vm3': 352.97}
+2026-02-02 14:12:41,438 Actual placement: Workload carbon-aware-efe14793 on node vm3
+2026-02-02 14:12:51,768 Workload: carbon-aware-7eb9061b | Recommended node: vm3 | Average carbon intensity of recommended node: 352.97 | Average carbon intensity of all nodes: {'vm1': 436.95, 'vm2': 386.42, 'vm3': 352.97}
+2026-02-02 14:12:51,770 Actual placement: Workload carbon-aware-7eb9061b on node vm2
+2026-02-02 14:13:03,107 Workload: carbon-aware-ed04181d | Recommended node: vm2 | Average carbon intensity of recommended node: 339.29 | Average carbon intensity of all nodes: {'vm1': 454.65, 'vm2': 339.29, 'vm3': 343.35}
+2026-02-02 14:13:03,111 Actual placement: Workload carbon-aware-ed04181d on node vm2
+2026-02-02 14:13:13,447 Workload: carbon-aware-18fbc280 | Recommended node: vm2 | Average carbon intensity of recommended node: 339.29 | Average carbon intensity of all nodes: {'vm1': 454.65, 'vm2': 339.29, 'vm3': 343.35}
+2026-02-02 14:13:13,451 Actual placement: Workload carbon-aware-18fbc280 on node vm3
+2026-02-02 14:13:23,604 Workload: carbon-aware-59bca8f2 | Recommended node: vm2 | Average carbon intensity of recommended node: 339.29 | Average carbon intensity of all nodes: {'vm1': 454.65, 'vm2': 339.29, 'vm3': 343.35}
+2026-02-02 14:13:23,607 Actual placement: Workload carbon-aware-59bca8f2 on node vm1
+2026-02-02 14:13:33,941 Workload: carbon-aware-525dd9c7 | Recommended node: vm2 | Average carbon intensity of recommended node: 339.29 | Average carbon intensity of all nodes: {'vm1': 454.65, 'vm2': 339.29, 'vm3': 343.35}
+2026-02-02 14:13:33,946 Actual placement: Workload carbon-aware-525dd9c7 on node vm2
+2026-02-02 14:13:44,276 Workload: carbon-aware-d05dafd6 | Recommended node: vm2 | Average carbon intensity of recommended node: 339.29 | Average carbon intensity of all nodes: {'vm1': 454.65, 'vm2': 339.29, 'vm3': 343.35}
+2026-02-02 14:13:44,279 Actual placement: Workload carbon-aware-d05dafd6 on node vm2
+2026-02-02 14:13:54,637 Workload: carbon-aware-20aaf1e7 | Recommended node: vm2 | Average carbon intensity of recommended node: 339.29 | Average carbon intensity of all nodes: {'vm1': 454.65, 'vm2': 339.29, 'vm3': 343.35}
+2026-02-02 14:13:54,641 Actual placement: Workload carbon-aware-20aaf1e7 on node vm3
+2026-02-02 14:14:04,801 Workload: carbon-aware-9104f3bd | Recommended node: vm2 | Average carbon intensity of recommended node: 320.78 | Average carbon intensity of all nodes: {'vm1': 473.29, 'vm2': 320.78, 'vm3': 325.37}
+2026-02-02 14:14:04,803 Actual placement: Workload carbon-aware-9104f3bd on node vm2
+2026-02-02 14:14:15,162 Workload: carbon-aware-c6d779b7 | Recommended node: vm2 | Average carbon intensity of recommended node: 320.78 | Average carbon intensity of all nodes: {'vm1': 473.29, 'vm2': 320.78, 'vm3': 325.37}
+2026-02-02 14:14:15,166 Actual placement: Workload carbon-aware-c6d779b7 on node vm2
+2026-02-02 14:14:25,490 Workload: carbon-aware-2be572ff | Recommended node: vm2 | Average carbon intensity of recommended node: 320.78 | Average carbon intensity of all nodes: {'vm1': 473.29, 'vm2': 320.78, 'vm3': 325.37}
+2026-02-02 14:14:25,495 Actual placement: Workload carbon-aware-2be572ff on node vm3
+2026-02-02 14:14:35,639 Workload: carbon-aware-60ec87ab | Recommended node: vm2 | Average carbon intensity of recommended node: 320.78 | Average carbon intensity of all nodes: {'vm1': 473.29, 'vm2': 320.78, 'vm3': 325.37}
+2026-02-02 14:14:35,644 Actual placement: Workload carbon-aware-60ec87ab on node vm3
+2026-02-02 14:14:45,813 Workload: carbon-aware-42551aba | Recommended node: vm2 | Average carbon intensity of recommended node: 320.78 | Average carbon intensity of all nodes: {'vm1': 473.29, 'vm2': 320.78, 'vm3': 325.37}
+2026-02-02 14:14:45,820 Actual placement: Workload carbon-aware-42551aba on node vm2
+2026-02-02 14:14:55,966 Workload: carbon-aware-e2a633b0 | Recommended node: vm2 | Average carbon intensity of recommended node: 320.78 | Average carbon intensity of all nodes: {'vm1': 473.29, 'vm2': 320.78, 'vm3': 325.37}
+2026-02-02 14:14:55,970 Actual placement: Workload carbon-aware-e2a633b0 on node vm2
+2026-02-02 14:15:06,131 Workload: carbon-aware-3024dfca | Recommended node: vm2 | Average carbon intensity of recommended node: 321.05 | Average carbon intensity of all nodes: {'vm1': 483.36, 'vm2': 321.05, 'vm3': 321.38}
+2026-02-02 14:15:06,136 Actual placement: Workload carbon-aware-3024dfca on node vm3
+2026-02-02 14:15:16,490 Workload: carbon-aware-1d22c9d4 | Recommended node: vm2 | Average carbon intensity of recommended node: 321.05 | Average carbon intensity of all nodes: {'vm1': 483.36, 'vm2': 321.05, 'vm3': 321.38}
+2026-02-02 14:15:16,497 Actual placement: Workload carbon-aware-1d22c9d4 on node vm1
+2026-02-02 14:15:26,834 Workload: carbon-aware-531b3ff9 | Recommended node: vm2 | Average carbon intensity of recommended node: 321.05 | Average carbon intensity of all nodes: {'vm1': 483.36, 'vm2': 321.05, 'vm3': 321.38}
+2026-02-02 14:15:26,836 Actual placement: Workload carbon-aware-531b3ff9 on node vm2
+2026-02-02 14:15:37,171 Workload: carbon-aware-81916e6c | Recommended node: vm2 | Average carbon intensity of recommended node: 321.05 | Average carbon intensity of all nodes: {'vm1': 483.36, 'vm2': 321.05, 'vm3': 321.38}
+2026-02-02 14:15:37,176 Actual placement: Workload carbon-aware-81916e6c on node vm2
+2026-02-02 14:15:47,513 Workload: carbon-aware-ac84295a | Recommended node: vm2 | Average carbon intensity of recommended node: 321.05 | Average carbon intensity of all nodes: {'vm1': 483.36, 'vm2': 321.05, 'vm3': 321.38}
+2026-02-02 14:15:47,519 Actual placement: Workload carbon-aware-ac84295a on node vm3
+2026-02-02 14:15:57,839 Workload: carbon-aware-69aa6042 | Recommended node: vm2 | Average carbon intensity of recommended node: 321.05 | Average carbon intensity of all nodes: {'vm1': 483.36, 'vm2': 321.05, 'vm3': 321.38}
+2026-02-02 14:15:57,842 Actual placement: Workload carbon-aware-69aa6042 on node vm3
+2026-02-02 14:16:08,174 Workload: carbon-aware-15ae265a | Recommended node: vm3 | Average carbon intensity of recommended node: 318.36 | Average carbon intensity of all nodes: {'vm1': 503.21, 'vm2': 321.44, 'vm3': 318.36}
+2026-02-02 14:16:08,178 Actual placement: Workload carbon-aware-15ae265a on node vm2
+2026-02-02 14:16:18,518 Workload: carbon-aware-89a75277 | Recommended node: vm3 | Average carbon intensity of recommended node: 318.36 | Average carbon intensity of all nodes: {'vm1': 503.21, 'vm2': 321.44, 'vm3': 318.36}
+2026-02-02 14:16:18,523 Actual placement: Workload carbon-aware-89a75277 on node vm2
+2026-02-02 14:16:28,850 Workload: carbon-aware-b6cf266a | Recommended node: vm3 | Average carbon intensity of recommended node: 318.36 | Average carbon intensity of all nodes: {'vm1': 503.21, 'vm2': 321.44, 'vm3': 318.36}
+2026-02-02 14:16:28,855 Actual placement: Workload carbon-aware-b6cf266a on node vm1
+2026-02-02 14:16:39,197 Workload: carbon-aware-d708380c | Recommended node: vm3 | Average carbon intensity of recommended node: 318.36 | Average carbon intensity of all nodes: {'vm1': 503.21, 'vm2': 321.44, 'vm3': 318.36}
+2026-02-02 14:16:39,202 Actual placement: Workload carbon-aware-d708380c on node vm2
+2026-02-02 14:16:49,362 Workload: carbon-aware-5febce6e | Recommended node: vm3 | Average carbon intensity of recommended node: 318.36 | Average carbon intensity of all nodes: {'vm1': 503.21, 'vm2': 321.44, 'vm3': 318.36}
+2026-02-02 14:16:49,367 Actual placement: Workload carbon-aware-5febce6e on node vm3
+2026-02-02 14:16:59,692 Workload: carbon-aware-698214ff | Recommended node: vm3 | Average carbon intensity of recommended node: 318.36 | Average carbon intensity of all nodes: {'vm1': 503.21, 'vm2': 321.44, 'vm3': 318.36}
+2026-02-02 14:16:59,696 Actual placement: Workload carbon-aware-698214ff on node vm2
+2026-02-02 14:17:09,845 Workload: carbon-aware-0f271e5c | Recommended node: vm2 | Average carbon intensity of recommended node: 319.69 | Average carbon intensity of all nodes: {'vm1': 525.0, 'vm2': 319.69, 'vm3': 327.62}
+2026-02-02 14:17:09,849 Actual placement: Workload carbon-aware-0f271e5c on node vm3
+2026-02-02 14:17:20,192 Workload: carbon-aware-f4d6c6d2 | Recommended node: vm2 | Average carbon intensity of recommended node: 319.69 | Average carbon intensity of all nodes: {'vm1': 525.0, 'vm2': 319.69, 'vm3': 327.62}
+2026-02-02 14:17:20,195 Actual placement: Workload carbon-aware-f4d6c6d2 on node vm2
+2026-02-02 14:17:30,524 Workload: carbon-aware-94af41b0 | Recommended node: vm2 | Average carbon intensity of recommended node: 319.69 | Average carbon intensity of all nodes: {'vm1': 525.0, 'vm2': 319.69, 'vm3': 327.62}
+2026-02-02 14:17:30,530 Actual placement: Workload carbon-aware-94af41b0 on node vm2
+2026-02-02 14:17:40,686 Workload: carbon-aware-6ee230d1 | Recommended node: vm2 | Average carbon intensity of recommended node: 319.69 | Average carbon intensity of all nodes: {'vm1': 525.0, 'vm2': 319.69, 'vm3': 327.62}
+2026-02-02 14:17:40,691 Actual placement: Workload carbon-aware-6ee230d1 on node vm1
+2026-02-02 14:17:50,861 Workload: carbon-aware-10cf7a3c | Recommended node: vm2 | Average carbon intensity of recommended node: 319.69 | Average carbon intensity of all nodes: {'vm1': 525.0, 'vm2': 319.69, 'vm3': 327.62}
+2026-02-02 14:17:50,864 Actual placement: Workload carbon-aware-10cf7a3c on node vm3
+2026-02-02 14:18:01,192 Workload: carbon-aware-9d806cf7 | Recommended node: vm2 | Average carbon intensity of recommended node: 334.47 | Average carbon intensity of all nodes: {'vm1': 535.26, 'vm2': 334.47, 'vm3': 359.16}
+2026-02-02 14:18:01,197 Actual placement: Workload carbon-aware-9d806cf7 on node vm2
+2026-02-02 14:18:11,532 Workload: carbon-aware-02b71c8c | Recommended node: vm2 | Average carbon intensity of recommended node: 334.47 | Average carbon intensity of all nodes: {'vm1': 535.26, 'vm2': 334.47, 'vm3': 359.16}
+2026-02-02 14:18:11,538 Actual placement: Workload carbon-aware-02b71c8c on node vm2
+2026-02-02 14:18:21,873 Workload: carbon-aware-08c62652 | Recommended node: vm2 | Average carbon intensity of recommended node: 334.47 | Average carbon intensity of all nodes: {'vm1': 535.26, 'vm2': 334.47, 'vm3': 359.16}
+2026-02-02 14:18:21,878 Actual placement: Workload carbon-aware-08c62652 on node vm2
+2026-02-02 14:18:32,207 Workload: carbon-aware-edbe5c41 | Recommended node: vm2 | Average carbon intensity of recommended node: 334.47 | Average carbon intensity of all nodes: {'vm1': 535.26, 'vm2': 334.47, 'vm3': 359.16}
+2026-02-02 14:18:32,209 Actual placement: Workload carbon-aware-edbe5c41 on node vm3
+2026-02-02 14:18:42,359 Workload: carbon-aware-2ed5ec04 | Recommended node: vm2 | Average carbon intensity of recommended node: 334.47 | Average carbon intensity of all nodes: {'vm1': 535.26, 'vm2': 334.47, 'vm3': 359.16}
+2026-02-02 14:18:42,364 Actual placement: Workload carbon-aware-2ed5ec04 on node vm3
+2026-02-02 14:18:52,705 Workload: carbon-aware-3d46ceca | Recommended node: vm2 | Average carbon intensity of recommended node: 334.47 | Average carbon intensity of all nodes: {'vm1': 535.26, 'vm2': 334.47, 'vm3': 359.16}
+2026-02-02 14:18:52,710 Actual placement: Workload carbon-aware-3d46ceca on node vm2
+2026-02-02 14:19:03,035 Workload: carbon-aware-8832b2dd | Recommended node: vm2 | Average carbon intensity of recommended node: 350.52 | Average carbon intensity of all nodes: {'vm1': 530.52, 'vm2': 350.52, 'vm3': 439.02}
+2026-02-02 14:19:03,039 Actual placement: Workload carbon-aware-8832b2dd on node vm2
+2026-02-02 14:19:13,198 Workload: carbon-aware-dd66af95 | Recommended node: vm2 | Average carbon intensity of recommended node: 350.52 | Average carbon intensity of all nodes: {'vm1': 530.52, 'vm2': 350.52, 'vm3': 439.02}
+2026-02-02 14:19:13,202 Actual placement: Workload carbon-aware-dd66af95 on node vm2
+2026-02-02 14:19:23,537 Workload: carbon-aware-e43fe350 | Recommended node: vm2 | Average carbon intensity of recommended node: 350.52 | Average carbon intensity of all nodes: {'vm1': 530.52, 'vm2': 350.52, 'vm3': 439.02}
+2026-02-02 14:19:23,543 Actual placement: Workload carbon-aware-e43fe350 on node vm1
+2026-02-02 14:19:33,688 Workload: carbon-aware-3254672e | Recommended node: vm2 | Average carbon intensity of recommended node: 350.52 | Average carbon intensity of all nodes: {'vm1': 530.52, 'vm2': 350.52, 'vm3': 439.02}
+2026-02-02 14:19:33,691 Actual placement: Workload carbon-aware-3254672e on node vm3
+2026-02-02 14:19:43,840 Workload: carbon-aware-a7061954 | Recommended node: vm2 | Average carbon intensity of recommended node: 350.52 | Average carbon intensity of all nodes: {'vm1': 530.52, 'vm2': 350.52, 'vm3': 439.02}
+2026-02-02 14:19:43,844 Actual placement: Workload carbon-aware-a7061954 on node vm2
+2026-02-02 14:19:54,000 Workload: carbon-aware-efd5efa0 | Recommended node: vm2 | Average carbon intensity of recommended node: 350.52 | Average carbon intensity of all nodes: {'vm1': 530.52, 'vm2': 350.52, 'vm3': 439.02}
+2026-02-02 14:19:54,004 Actual placement: Workload carbon-aware-efd5efa0 on node vm2
+2026-02-02 14:20:04,144 Workload: carbon-aware-730de50a | Recommended node: vm2 | Average carbon intensity of recommended node: 354.28 | Average carbon intensity of all nodes: {'vm1': 523.43, 'vm2': 354.28, 'vm3': 439.92}
+2026-02-02 14:20:04,145 Actual placement: Workload carbon-aware-730de50a on node vm3
+2026-02-02 14:20:14,483 Workload: carbon-aware-24cad299 | Recommended node: vm2 | Average carbon intensity of recommended node: 354.28 | Average carbon intensity of all nodes: {'vm1': 523.43, 'vm2': 354.28, 'vm3': 439.92}
+2026-02-02 14:20:14,486 Actual placement: Workload carbon-aware-24cad299 on node vm2
+2026-02-02 14:20:24,828 Workload: carbon-aware-749b8909 | Recommended node: vm2 | Average carbon intensity of recommended node: 354.28 | Average carbon intensity of all nodes: {'vm1': 523.43, 'vm2': 354.28, 'vm3': 439.92}
+2026-02-02 14:20:24,836 Actual placement: Workload carbon-aware-749b8909 on node vm1
+2026-02-02 14:20:35,174 Workload: carbon-aware-5150d938 | Recommended node: vm2 | Average carbon intensity of recommended node: 354.28 | Average carbon intensity of all nodes: {'vm1': 523.43, 'vm2': 354.28, 'vm3': 439.92}
+2026-02-02 14:20:35,178 Actual placement: Workload carbon-aware-5150d938 on node vm2
+2026-02-02 14:20:45,330 Workload: carbon-aware-5e97e609 | Recommended node: vm2 | Average carbon intensity of recommended node: 354.28 | Average carbon intensity of all nodes: {'vm1': 523.43, 'vm2': 354.28, 'vm3': 439.92}
+2026-02-02 14:20:45,332 Actual placement: Workload carbon-aware-5e97e609 on node vm3
+2026-02-02 14:20:55,501 Workload: carbon-aware-7f4163ee | Recommended node: vm2 | Average carbon intensity of recommended node: 354.28 | Average carbon intensity of all nodes: {'vm1': 523.43, 'vm2': 354.28, 'vm3': 439.92}
+2026-02-02 14:20:55,511 Actual placement: Workload carbon-aware-7f4163ee on node vm3
+2026-02-02 14:21:05,652 Workload: carbon-aware-1a982e7c | Recommended node: vm2 | Average carbon intensity of recommended node: 356.21 | Average carbon intensity of all nodes: {'vm1': 510.58, 'vm2': 356.21, 'vm3': 433.26}
+2026-02-02 14:21:05,657 Actual placement: Workload carbon-aware-1a982e7c on node vm2
+2026-02-02 14:21:15,810 Workload: carbon-aware-9d0354b1 | Recommended node: vm2 | Average carbon intensity of recommended node: 356.21 | Average carbon intensity of all nodes: {'vm1': 510.58, 'vm2': 356.21, 'vm3': 433.26}
+2026-02-02 14:21:15,813 Actual placement: Workload carbon-aware-9d0354b1 on node vm2
+2026-02-02 14:21:26,149 Workload: carbon-aware-cd10e0f4 | Recommended node: vm2 | Average carbon intensity of recommended node: 356.21 | Average carbon intensity of all nodes: {'vm1': 510.58, 'vm2': 356.21, 'vm3': 433.26}
+2026-02-02 14:21:26,154 Actual placement: Workload carbon-aware-cd10e0f4 on node vm2
+2026-02-02 14:21:36,297 Workload: carbon-aware-bfeecc6e | Recommended node: vm2 | Average carbon intensity of recommended node: 356.21 | Average carbon intensity of all nodes: {'vm1': 510.58, 'vm2': 356.21, 'vm3': 433.26}
+2026-02-02 14:21:36,300 Actual placement: Workload carbon-aware-bfeecc6e on node vm3
+2026-02-02 14:21:46,630 Workload: carbon-aware-4be37d7d | Recommended node: vm2 | Average carbon intensity of recommended node: 356.21 | Average carbon intensity of all nodes: {'vm1': 510.58, 'vm2': 356.21, 'vm3': 433.26}
+2026-02-02 14:21:46,635 Actual placement: Workload carbon-aware-4be37d7d on node vm1
+2026-02-02 14:21:56,802 Workload: carbon-aware-88e81c82 | Recommended node: vm2 | Average carbon intensity of recommended node: 356.21 | Average carbon intensity of all nodes: {'vm1': 510.58, 'vm2': 356.21, 'vm3': 433.26}
+2026-02-02 14:21:56,805 Actual placement: Workload carbon-aware-88e81c82 on node vm2
+2026-02-02 14:22:06,950 Workload: carbon-aware-72553fd8 | Recommended node: vm2 | Average carbon intensity of recommended node: 357.43 | Average carbon intensity of all nodes: {'vm1': 481.12, 'vm2': 357.43, 'vm3': 393.6}
+2026-02-02 14:22:06,952 Actual placement: Workload carbon-aware-72553fd8 on node vm2
+2026-02-02 14:22:17,288 Workload: carbon-aware-7a5d368c | Recommended node: vm2 | Average carbon intensity of recommended node: 357.43 | Average carbon intensity of all nodes: {'vm1': 481.12, 'vm2': 357.43, 'vm3': 393.6}
+2026-02-02 14:22:17,292 Actual placement: Workload carbon-aware-7a5d368c on node vm3
+2026-02-02 14:22:27,445 Workload: carbon-aware-dfd602e4 | Recommended node: vm2 | Average carbon intensity of recommended node: 357.43 | Average carbon intensity of all nodes: {'vm1': 481.12, 'vm2': 357.43, 'vm3': 393.6}
+2026-02-02 14:22:27,450 Actual placement: Workload carbon-aware-dfd602e4 on node vm3
+2026-02-02 14:22:37,592 Workload: carbon-aware-3bf7f87e | Recommended node: vm2 | Average carbon intensity of recommended node: 357.43 | Average carbon intensity of all nodes: {'vm1': 481.12, 'vm2': 357.43, 'vm3': 393.6}
+2026-02-02 14:22:37,595 Actual placement: Workload carbon-aware-3bf7f87e on node vm2
+2026-02-02 14:22:47,744 Workload: carbon-aware-3136c74e | Recommended node: vm2 | Average carbon intensity of recommended node: 357.43 | Average carbon intensity of all nodes: {'vm1': 481.12, 'vm2': 357.43, 'vm3': 393.6}
+2026-02-02 14:22:47,747 Actual placement: Workload carbon-aware-3136c74e on node vm2
+2026-02-02 14:22:57,924 Workload: carbon-aware-13606606 | Recommended node: vm2 | Average carbon intensity of recommended node: 357.43 | Average carbon intensity of all nodes: {'vm1': 481.12, 'vm2': 357.43, 'vm3': 393.6}
+2026-02-02 14:22:57,931 Actual placement: Workload carbon-aware-13606606 on node vm1
+2026-02-02 14:23:08,073 Workload: carbon-aware-c384b1ea | Recommended node: vm2 | Average carbon intensity of recommended node: 370.73 | Average carbon intensity of all nodes: {'vm1': 451.0, 'vm2': 370.73, 'vm3': 389.03}
+2026-02-02 14:23:08,075 Actual placement: Workload carbon-aware-c384b1ea on node vm2
+2026-02-02 14:23:18,427 Workload: carbon-aware-aff573a4 | Recommended node: vm2 | Average carbon intensity of recommended node: 370.73 | Average carbon intensity of all nodes: {'vm1': 451.0, 'vm2': 370.73, 'vm3': 389.03}
+2026-02-02 14:23:18,427 Actual placement: Workload carbon-aware-aff573a4 on node vm2
+2026-02-02 14:23:28,595 Workload: carbon-aware-ebd04bab | Recommended node: vm2 | Average carbon intensity of recommended node: 370.73 | Average carbon intensity of all nodes: {'vm1': 451.0, 'vm2': 370.73, 'vm3': 389.03}
+2026-02-02 14:23:28,598 Actual placement: Workload carbon-aware-ebd04bab on node vm3
+2026-02-02 14:23:38,742 Workload: carbon-aware-bf2d4624 | Recommended node: vm2 | Average carbon intensity of recommended node: 370.73 | Average carbon intensity of all nodes: {'vm1': 451.0, 'vm2': 370.73, 'vm3': 389.03}
+2026-02-02 14:23:38,745 Actual placement: Workload carbon-aware-bf2d4624 on node vm3
+2026-02-02 14:23:49,086 Workload: carbon-aware-d21dd27e | Recommended node: vm2 | Average carbon intensity of recommended node: 370.73 | Average carbon intensity of all nodes: {'vm1': 451.0, 'vm2': 370.73, 'vm3': 389.03}
+2026-02-02 14:23:49,090 Actual placement: Workload carbon-aware-d21dd27e on node vm2
+2026-02-02 14:23:59,264 Workload: carbon-aware-f6626664 | Recommended node: vm2 | Average carbon intensity of recommended node: 370.73 | Average carbon intensity of all nodes: {'vm1': 451.0, 'vm2': 370.73, 'vm3': 389.03}
+2026-02-02 14:23:59,266 Actual placement: Workload carbon-aware-f6626664 on node vm2
+2026-02-02 14:24:09,596 Workload: carbon-aware-f8b3865c | Recommended node: vm3 | Average carbon intensity of recommended node: 380.46 | Average carbon intensity of all nodes: {'vm1': 445.97, 'vm2': 420.96, 'vm3': 380.46}
+2026-02-02 14:24:09,601 Actual placement: Workload carbon-aware-f8b3865c on node vm1
+2026-02-02 14:24:19,934 Workload: carbon-aware-c7439553 | Recommended node: vm3 | Average carbon intensity of recommended node: 380.46 | Average carbon intensity of all nodes: {'vm1': 445.97, 'vm2': 420.96, 'vm3': 380.46}
+2026-02-02 14:24:19,939 Actual placement: Workload carbon-aware-c7439553 on node vm2
+2026-02-02 14:24:30,283 Workload: carbon-aware-02487058 | Recommended node: vm3 | Average carbon intensity of recommended node: 380.46 | Average carbon intensity of all nodes: {'vm1': 445.97, 'vm2': 420.96, 'vm3': 380.46}
+2026-02-02 14:24:30,284 Actual placement: Workload carbon-aware-02487058 on node vm3
+2026-02-02 14:24:40,615 Workload: carbon-aware-bfdab413 | Recommended node: vm3 | Average carbon intensity of recommended node: 380.46 | Average carbon intensity of all nodes: {'vm1': 445.97, 'vm2': 420.96, 'vm3': 380.46}
+2026-02-02 14:24:40,619 Actual placement: Workload carbon-aware-bfdab413 on node vm1
+2026-02-02 14:24:50,960 Workload: carbon-aware-19c25ff9 | Recommended node: vm3 | Average carbon intensity of recommended node: 380.46 | Average carbon intensity of all nodes: {'vm1': 445.97, 'vm2': 420.96, 'vm3': 380.46}
+2026-02-02 14:24:50,964 Actual placement: Workload carbon-aware-19c25ff9 on node vm2
+2026-02-02 14:25:01,307 Workload: carbon-aware-094bac42 | Recommended node: vm3 | Average carbon intensity of recommended node: 372.97 | Average carbon intensity of all nodes: {'vm1': 452.17, 'vm2': 467.51, 'vm3': 372.97}
+2026-02-02 14:25:01,311 Actual placement: Workload carbon-aware-094bac42 on node vm2
+2026-02-02 14:25:11,459 Workload: carbon-aware-bdf1aeba | Recommended node: vm3 | Average carbon intensity of recommended node: 372.97 | Average carbon intensity of all nodes: {'vm1': 452.17, 'vm2': 467.51, 'vm3': 372.97}
+2026-02-02 14:25:11,463 Actual placement: Workload carbon-aware-bdf1aeba on node vm3
+2026-02-02 14:25:21,612 Workload: carbon-aware-e17f42b4 | Recommended node: vm3 | Average carbon intensity of recommended node: 372.97 | Average carbon intensity of all nodes: {'vm1': 452.17, 'vm2': 467.51, 'vm3': 372.97}
+2026-02-02 14:25:21,615 Actual placement: Workload carbon-aware-e17f42b4 on node vm2
+2026-02-02 14:25:31,963 Workload: carbon-aware-eba83454 | Recommended node: vm3 | Average carbon intensity of recommended node: 372.97 | Average carbon intensity of all nodes: {'vm1': 452.17, 'vm2': 467.51, 'vm3': 372.97}
+2026-02-02 14:25:31,968 Actual placement: Workload carbon-aware-eba83454 on node vm3
+2026-02-02 14:25:42,111 Workload: carbon-aware-f66aaf09 | Recommended node: vm3 | Average carbon intensity of recommended node: 372.97 | Average carbon intensity of all nodes: {'vm1': 452.17, 'vm2': 467.51, 'vm3': 372.97}
+2026-02-02 14:25:42,115 Actual placement: Workload carbon-aware-f66aaf09 on node vm2
+2026-02-02 14:25:52,450 Workload: carbon-aware-3ba64480 | Recommended node: vm3 | Average carbon intensity of recommended node: 372.97 | Average carbon intensity of all nodes: {'vm1': 452.17, 'vm2': 467.51, 'vm3': 372.97}
+2026-02-02 14:25:52,453 Actual placement: Workload carbon-aware-3ba64480 on node vm2
+2026-02-02 14:26:02,790 Workload: carbon-aware-64579ecb | Recommended node: vm3 | Average carbon intensity of recommended node: 383.61 | Average carbon intensity of all nodes: {'vm1': 458.45, 'vm2': 468.05, 'vm3': 383.61}
+2026-02-02 14:26:02,796 Actual placement: Workload carbon-aware-64579ecb on node vm1
+2026-02-02 14:26:12,934 Workload: carbon-aware-e6e1ae18 | Recommended node: vm3 | Average carbon intensity of recommended node: 383.61 | Average carbon intensity of all nodes: {'vm1': 458.45, 'vm2': 468.05, 'vm3': 383.61}
+2026-02-02 14:26:12,937 Actual placement: Workload carbon-aware-e6e1ae18 on node vm3
+2026-02-02 14:26:23,267 Workload: carbon-aware-6563e923 | Recommended node: vm3 | Average carbon intensity of recommended node: 383.61 | Average carbon intensity of all nodes: {'vm1': 458.45, 'vm2': 468.05, 'vm3': 383.61}
+2026-02-02 14:26:23,270 Actual placement: Workload carbon-aware-6563e923 on node vm2
+2026-02-02 14:26:33,435 Workload: carbon-aware-76699aef | Recommended node: vm3 | Average carbon intensity of recommended node: 383.61 | Average carbon intensity of all nodes: {'vm1': 458.45, 'vm2': 468.05, 'vm3': 383.61}
+2026-02-02 14:26:33,440 Actual placement: Workload carbon-aware-76699aef on node vm3
+2026-02-02 14:26:43,581 Workload: carbon-aware-44d74e66 | Recommended node: vm3 | Average carbon intensity of recommended node: 383.61 | Average carbon intensity of all nodes: {'vm1': 458.45, 'vm2': 468.05, 'vm3': 383.61}
+2026-02-02 14:26:43,584 Actual placement: Workload carbon-aware-44d74e66 on node vm2
+2026-02-02 14:26:53,747 Workload: carbon-aware-81029c1c | Recommended node: vm3 | Average carbon intensity of recommended node: 383.61 | Average carbon intensity of all nodes: {'vm1': 458.45, 'vm2': 468.05, 'vm3': 383.61}
+2026-02-02 14:26:53,751 Actual placement: Workload carbon-aware-81029c1c on node vm2
+2026-02-02 14:27:03,941 Workload: carbon-aware-5b07ba87 | Recommended node: vm3 | Average carbon intensity of recommended node: 365.25 | Average carbon intensity of all nodes: {'vm1': 483.89, 'vm2': 458.66, 'vm3': 365.25}
+2026-02-02 14:27:03,944 Actual placement: Workload carbon-aware-5b07ba87 on node vm1
+2026-02-02 14:27:14,092 Workload: carbon-aware-5d5f31e6 | Recommended node: vm3 | Average carbon intensity of recommended node: 365.25 | Average carbon intensity of all nodes: {'vm1': 483.89, 'vm2': 458.66, 'vm3': 365.25}
+2026-02-02 14:27:14,095 Actual placement: Workload carbon-aware-5d5f31e6 on node vm3
+2026-02-02 14:27:24,254 Workload: carbon-aware-076ceb3d | Recommended node: vm3 | Average carbon intensity of recommended node: 365.25 | Average carbon intensity of all nodes: {'vm1': 483.89, 'vm2': 458.66, 'vm3': 365.25}
+2026-02-02 14:27:24,256 Actual placement: Workload carbon-aware-076ceb3d on node vm2
+2026-02-02 14:27:34,417 Workload: carbon-aware-a58c4379 | Recommended node: vm3 | Average carbon intensity of recommended node: 365.25 | Average carbon intensity of all nodes: {'vm1': 483.89, 'vm2': 458.66, 'vm3': 365.25}
+2026-02-02 14:27:34,421 Actual placement: Workload carbon-aware-a58c4379 on node vm2
+2026-02-02 14:27:44,562 Workload: carbon-aware-7326be5d | Recommended node: vm3 | Average carbon intensity of recommended node: 365.25 | Average carbon intensity of all nodes: {'vm1': 483.89, 'vm2': 458.66, 'vm3': 365.25}
+2026-02-02 14:27:44,567 Actual placement: Workload carbon-aware-7326be5d on node vm2
+2026-02-02 14:27:54,718 Workload: carbon-aware-9d2a9fe5 | Recommended node: vm3 | Average carbon intensity of recommended node: 365.25 | Average carbon intensity of all nodes: {'vm1': 483.89, 'vm2': 458.66, 'vm3': 365.25}
+2026-02-02 14:27:54,724 Actual placement: Workload carbon-aware-9d2a9fe5 on node vm3
+2026-02-02 14:28:05,063 Workload: carbon-aware-ad27ac1c | Recommended node: vm3 | Average carbon intensity of recommended node: 386.75 | Average carbon intensity of all nodes: {'vm1': 479.53, 'vm2': 438.7, 'vm3': 386.75}
+2026-02-02 14:28:05,066 Actual placement: Workload carbon-aware-ad27ac1c on node vm2
+2026-02-02 14:28:15,207 Workload: carbon-aware-9f9f2386 | Recommended node: vm3 | Average carbon intensity of recommended node: 386.75 | Average carbon intensity of all nodes: {'vm1': 479.53, 'vm2': 438.7, 'vm3': 386.75}
+2026-02-02 14:28:15,214 Actual placement: Workload carbon-aware-9f9f2386 on node vm1
+2026-02-02 14:28:25,548 Workload: carbon-aware-72fc7572 | Recommended node: vm3 | Average carbon intensity of recommended node: 386.75 | Average carbon intensity of all nodes: {'vm1': 479.53, 'vm2': 438.7, 'vm3': 386.75}
+2026-02-02 14:28:25,550 Actual placement: Workload carbon-aware-72fc7572 on node vm3
+2026-02-02 14:28:35,911 Workload: carbon-aware-98c3c425 | Recommended node: vm3 | Average carbon intensity of recommended node: 386.75 | Average carbon intensity of all nodes: {'vm1': 479.53, 'vm2': 438.7, 'vm3': 386.75}
+2026-02-02 14:28:35,916 Actual placement: Workload carbon-aware-98c3c425 on node vm2
+2026-02-02 14:28:46,241 Workload: carbon-aware-7f214b42 | Recommended node: vm3 | Average carbon intensity of recommended node: 386.75 | Average carbon intensity of all nodes: {'vm1': 479.53, 'vm2': 438.7, 'vm3': 386.75}
+2026-02-02 14:28:46,244 Actual placement: Workload carbon-aware-7f214b42 on node vm2
+2026-02-02 14:28:56,593 Workload: carbon-aware-9fb1f41c | Recommended node: vm3 | Average carbon intensity of recommended node: 386.75 | Average carbon intensity of all nodes: {'vm1': 479.53, 'vm2': 438.7, 'vm3': 386.75}
+2026-02-02 14:28:56,596 Actual placement: Workload carbon-aware-9fb1f41c on node vm3
+2026-02-02 14:29:06,935 Workload: carbon-aware-9cfe320a | Recommended node: vm3 | Average carbon intensity of recommended node: 326.07 | Average carbon intensity of all nodes: {'vm1': 472.66, 'vm2': 396.58, 'vm3': 326.07}
+2026-02-02 14:29:06,942 Actual placement: Workload carbon-aware-9cfe320a on node vm1
+2026-02-02 14:29:17,087 Workload: carbon-aware-83d7c31e | Recommended node: vm3 | Average carbon intensity of recommended node: 326.07 | Average carbon intensity of all nodes: {'vm1': 472.66, 'vm2': 396.58, 'vm3': 326.07}
+2026-02-02 14:29:17,087 Actual placement: Workload carbon-aware-83d7c31e on node vm2
+2026-02-02 14:29:27,237 Workload: carbon-aware-586da9a4 | Recommended node: vm3 | Average carbon intensity of recommended node: 326.07 | Average carbon intensity of all nodes: {'vm1': 472.66, 'vm2': 396.58, 'vm3': 326.07}
+2026-02-02 14:29:27,241 Actual placement: Workload carbon-aware-586da9a4 on node vm2
+2026-02-02 14:29:37,595 Workload: carbon-aware-f46f225c | Recommended node: vm3 | Average carbon intensity of recommended node: 326.07 | Average carbon intensity of all nodes: {'vm1': 472.66, 'vm2': 396.58, 'vm3': 326.07}
+2026-02-02 14:29:37,598 Actual placement: Workload carbon-aware-f46f225c on node vm2
+2026-02-02 14:29:47,743 Workload: carbon-aware-f15f7ed7 | Recommended node: vm3 | Average carbon intensity of recommended node: 326.07 | Average carbon intensity of all nodes: {'vm1': 472.66, 'vm2': 396.58, 'vm3': 326.07}
+2026-02-02 14:29:47,747 Actual placement: Workload carbon-aware-f15f7ed7 on node vm3
+2026-02-02 14:29:57,905 Workload: carbon-aware-a51844ec | Recommended node: vm3 | Average carbon intensity of recommended node: 326.07 | Average carbon intensity of all nodes: {'vm1': 472.66, 'vm2': 396.58, 'vm3': 326.07}
+2026-02-02 14:29:57,910 Actual placement: Workload carbon-aware-a51844ec on node vm3
+2026-02-02 14:30:08,082 Workload: carbon-aware-db1efefd | Recommended node: vm3 | Average carbon intensity of recommended node: 307.49 | Average carbon intensity of all nodes: {'vm1': 454.25, 'vm2': 350.52, 'vm3': 307.49}
+2026-02-02 14:30:08,090 Actual placement: Workload carbon-aware-db1efefd on node vm1
+2026-02-02 14:30:18,244 Workload: carbon-aware-89689dd8 | Recommended node: vm3 | Average carbon intensity of recommended node: 307.49 | Average carbon intensity of all nodes: {'vm1': 454.25, 'vm2': 350.52, 'vm3': 307.49}
+2026-02-02 14:30:18,247 Actual placement: Workload carbon-aware-89689dd8 on node vm2
+2026-02-02 14:30:28,397 Workload: carbon-aware-f8e86a3c | Recommended node: vm3 | Average carbon intensity of recommended node: 307.49 | Average carbon intensity of all nodes: {'vm1': 454.25, 'vm2': 350.52, 'vm3': 307.49}
+2026-02-02 14:30:28,400 Actual placement: Workload carbon-aware-f8e86a3c on node vm2
+2026-02-02 14:30:38,768 Workload: carbon-aware-19f9abf2 | Recommended node: vm3 | Average carbon intensity of recommended node: 307.49 | Average carbon intensity of all nodes: {'vm1': 454.25, 'vm2': 350.52, 'vm3': 307.49}
+2026-02-02 14:30:38,772 Actual placement: Workload carbon-aware-19f9abf2 on node vm2
+2026-02-02 14:30:48,910 Workload: carbon-aware-693a2e0f | Recommended node: vm3 | Average carbon intensity of recommended node: 307.49 | Average carbon intensity of all nodes: {'vm1': 454.25, 'vm2': 350.52, 'vm3': 307.49}
+2026-02-02 14:30:48,918 Actual placement: Workload carbon-aware-693a2e0f on node vm3
+2026-02-02 14:30:59,265 Workload: carbon-aware-8b9de8bc | Recommended node: vm3 | Average carbon intensity of recommended node: 307.49 | Average carbon intensity of all nodes: {'vm1': 454.25, 'vm2': 350.52, 'vm3': 307.49}
+2026-02-02 14:30:59,268 Actual placement: Workload carbon-aware-8b9de8bc on node vm3
+2026-02-02 14:31:09,436 Workload: carbon-aware-e4e8f0fb | Recommended node: vm3 | Average carbon intensity of recommended node: 306.4 | Average carbon intensity of all nodes: {'vm1': 418.86, 'vm2': 329.82, 'vm3': 306.4}
+2026-02-02 14:31:09,443 Actual placement: Workload carbon-aware-e4e8f0fb on node vm1
+2026-02-02 14:31:19,587 Workload: carbon-aware-1a008cb3 | Recommended node: vm3 | Average carbon intensity of recommended node: 306.4 | Average carbon intensity of all nodes: {'vm1': 418.86, 'vm2': 329.82, 'vm3': 306.4}
+2026-02-02 14:31:19,590 Actual placement: Workload carbon-aware-1a008cb3 on node vm2
+2026-02-02 14:31:29,737 Workload: carbon-aware-143245a3 | Recommended node: vm3 | Average carbon intensity of recommended node: 306.4 | Average carbon intensity of all nodes: {'vm1': 418.86, 'vm2': 329.82, 'vm3': 306.4}
+2026-02-02 14:31:29,740 Actual placement: Workload carbon-aware-143245a3 on node vm2
+2026-02-02 14:31:39,898 Workload: carbon-aware-2bb5b2b2 | Recommended node: vm3 | Average carbon intensity of recommended node: 306.4 | Average carbon intensity of all nodes: {'vm1': 418.86, 'vm2': 329.82, 'vm3': 306.4}
+2026-02-02 14:31:39,901 Actual placement: Workload carbon-aware-2bb5b2b2 on node vm3
+2026-02-02 14:31:50,230 Workload: carbon-aware-a6ee5494 | Recommended node: vm3 | Average carbon intensity of recommended node: 306.4 | Average carbon intensity of all nodes: {'vm1': 418.86, 'vm2': 329.82, 'vm3': 306.4}
+2026-02-02 14:31:50,232 Actual placement: Workload carbon-aware-a6ee5494 on node vm2
+2026-02-02 14:32:00,583 Workload: carbon-aware-fc02a463 | Recommended node: vm3 | Average carbon intensity of recommended node: 294.22 | Average carbon intensity of all nodes: {'vm1': 385.01, 'vm2': 331.57, 'vm3': 294.22}
+2026-02-02 14:32:00,588 Actual placement: Workload carbon-aware-fc02a463 on node vm1
+2026-02-02 14:32:10,744 Workload: carbon-aware-0ddc6edd | Recommended node: vm3 | Average carbon intensity of recommended node: 294.22 | Average carbon intensity of all nodes: {'vm1': 385.01, 'vm2': 331.57, 'vm3': 294.22}
+2026-02-02 14:32:10,748 Actual placement: Workload carbon-aware-0ddc6edd on node vm2
+2026-02-02 14:32:21,093 Workload: carbon-aware-16d4bb0b | Recommended node: vm3 | Average carbon intensity of recommended node: 294.22 | Average carbon intensity of all nodes: {'vm1': 385.01, 'vm2': 331.57, 'vm3': 294.22}
+2026-02-02 14:32:21,096 Actual placement: Workload carbon-aware-16d4bb0b on node vm2
+2026-02-02 14:32:31,428 Workload: carbon-aware-029818fc | Recommended node: vm3 | Average carbon intensity of recommended node: 294.22 | Average carbon intensity of all nodes: {'vm1': 385.01, 'vm2': 331.57, 'vm3': 294.22}
+2026-02-02 14:32:31,432 Actual placement: Workload carbon-aware-029818fc on node vm3
+2026-02-02 14:32:41,601 Workload: carbon-aware-e3ff9be3 | Recommended node: vm3 | Average carbon intensity of recommended node: 294.22 | Average carbon intensity of all nodes: {'vm1': 385.01, 'vm2': 331.57, 'vm3': 294.22}
+2026-02-02 14:32:41,605 Actual placement: Workload carbon-aware-e3ff9be3 on node vm2
+2026-02-02 14:32:51,747 Workload: carbon-aware-ae49ae25 | Recommended node: vm3 | Average carbon intensity of recommended node: 294.22 | Average carbon intensity of all nodes: {'vm1': 385.01, 'vm2': 331.57, 'vm3': 294.22}
+2026-02-02 14:32:51,751 Actual placement: Workload carbon-aware-ae49ae25 on node vm3
+2026-02-02 14:33:01,897 Workload: carbon-aware-93428b4e | Recommended node: vm3 | Average carbon intensity of recommended node: 291.13 | Average carbon intensity of all nodes: {'vm1': 330.84, 'vm2': 351.06, 'vm3': 291.13}
+2026-02-02 14:33:01,901 Actual placement: Workload carbon-aware-93428b4e on node vm2
+2026-02-02 14:33:12,241 Workload: carbon-aware-1bf055ce | Recommended node: vm3 | Average carbon intensity of recommended node: 291.13 | Average carbon intensity of all nodes: {'vm1': 330.84, 'vm2': 351.06, 'vm3': 291.13}
+2026-02-02 14:33:12,244 Actual placement: Workload carbon-aware-1bf055ce on node vm2
+2026-02-02 14:33:22,582 Workload: carbon-aware-ad07b567 | Recommended node: vm3 | Average carbon intensity of recommended node: 291.13 | Average carbon intensity of all nodes: {'vm1': 330.84, 'vm2': 351.06, 'vm3': 291.13}
+2026-02-02 14:33:22,585 Actual placement: Workload carbon-aware-ad07b567 on node vm3
+2026-02-02 14:33:32,733 Workload: carbon-aware-e0495c3e | Recommended node: vm3 | Average carbon intensity of recommended node: 291.13 | Average carbon intensity of all nodes: {'vm1': 330.84, 'vm2': 351.06, 'vm3': 291.13}
+2026-02-02 14:33:32,736 Actual placement: Workload carbon-aware-e0495c3e on node vm2
+2026-02-02 14:33:42,898 Workload: carbon-aware-96e3eeae | Recommended node: vm3 | Average carbon intensity of recommended node: 291.13 | Average carbon intensity of all nodes: {'vm1': 330.84, 'vm2': 351.06, 'vm3': 291.13}
+2026-02-02 14:33:42,901 Actual placement: Workload carbon-aware-96e3eeae on node vm2
+2026-02-02 14:33:53,053 Workload: carbon-aware-82f63cdd | Recommended node: vm3 | Average carbon intensity of recommended node: 291.13 | Average carbon intensity of all nodes: {'vm1': 330.84, 'vm2': 351.06, 'vm3': 291.13}
+2026-02-02 14:33:53,056 Actual placement: Workload carbon-aware-82f63cdd on node vm1
+2026-02-02 14:34:03,215 Workload: carbon-aware-628aeeba | Recommended node: vm3 | Average carbon intensity of recommended node: 299.77 | Average carbon intensity of all nodes: {'vm1': 307.08, 'vm2': 375.31, 'vm3': 299.77}
+2026-02-02 14:34:03,219 Actual placement: Workload carbon-aware-628aeeba on node vm2
+2026-02-02 14:34:13,563 Workload: carbon-aware-fcb39573 | Recommended node: vm3 | Average carbon intensity of recommended node: 299.77 | Average carbon intensity of all nodes: {'vm1': 307.08, 'vm2': 375.31, 'vm3': 299.77}
+2026-02-02 14:34:13,569 Actual placement: Workload carbon-aware-fcb39573 on node vm3
+2026-02-02 14:34:23,710 Workload: carbon-aware-1f2a0625 | Recommended node: vm3 | Average carbon intensity of recommended node: 299.77 | Average carbon intensity of all nodes: {'vm1': 307.08, 'vm2': 375.31, 'vm3': 299.77}
+2026-02-02 14:34:23,714 Actual placement: Workload carbon-aware-1f2a0625 on node vm2
+2026-02-02 14:34:33,870 Workload: carbon-aware-75741b55 | Recommended node: vm3 | Average carbon intensity of recommended node: 299.77 | Average carbon intensity of all nodes: {'vm1': 307.08, 'vm2': 375.31, 'vm3': 299.77}
+2026-02-02 14:34:33,870 Actual placement: Workload carbon-aware-75741b55 on node vm3
+2026-02-02 14:34:44,031 Workload: carbon-aware-e1b086f8 | Recommended node: vm3 | Average carbon intensity of recommended node: 299.77 | Average carbon intensity of all nodes: {'vm1': 307.08, 'vm2': 375.31, 'vm3': 299.77}
+2026-02-02 14:34:44,043 Actual placement: Workload carbon-aware-e1b086f8 on node vm2
+2026-02-02 14:34:54,184 Workload: carbon-aware-9eaadeea | Recommended node: vm3 | Average carbon intensity of recommended node: 299.77 | Average carbon intensity of all nodes: {'vm1': 307.08, 'vm2': 375.31, 'vm3': 299.77}
+2026-02-02 14:34:54,190 Actual placement: Workload carbon-aware-9eaadeea on node vm1
+2026-02-02 14:35:04,337 Workload: carbon-aware-fcf3fe46 | Recommended node: vm1 | Average carbon intensity of recommended node: 301.82 | Average carbon intensity of all nodes: {'vm1': 301.82, 'vm2': 392.34, 'vm3': 302.7}
+2026-02-02 14:35:04,342 Actual placement: Workload carbon-aware-fcf3fe46 on node vm3
+2026-02-02 14:35:14,688 Workload: carbon-aware-47ad9cb1 | Recommended node: vm1 | Average carbon intensity of recommended node: 301.82 | Average carbon intensity of all nodes: {'vm1': 301.82, 'vm2': 392.34, 'vm3': 302.7}
+2026-02-02 14:35:14,694 Actual placement: Workload carbon-aware-47ad9cb1 on node vm2
+2026-02-02 14:35:24,838 Workload: carbon-aware-7c380515 | Recommended node: vm1 | Average carbon intensity of recommended node: 301.82 | Average carbon intensity of all nodes: {'vm1': 301.82, 'vm2': 392.34, 'vm3': 302.7}
+2026-02-02 14:35:24,843 Actual placement: Workload carbon-aware-7c380515 on node vm2
+2026-02-02 14:35:34,991 Workload: carbon-aware-84610c89 | Recommended node: vm1 | Average carbon intensity of recommended node: 301.82 | Average carbon intensity of all nodes: {'vm1': 301.82, 'vm2': 392.34, 'vm3': 302.7}
+2026-02-02 14:35:34,994 Actual placement: Workload carbon-aware-84610c89 on node vm2
+2026-02-02 14:35:45,339 Workload: carbon-aware-64355da0 | Recommended node: vm1 | Average carbon intensity of recommended node: 301.82 | Average carbon intensity of all nodes: {'vm1': 301.82, 'vm2': 392.34, 'vm3': 302.7}
+2026-02-02 14:35:45,343 Actual placement: Workload carbon-aware-64355da0 on node vm3
+2026-02-02 14:35:55,670 Workload: carbon-aware-e27d15a9 | Recommended node: vm1 | Average carbon intensity of recommended node: 301.82 | Average carbon intensity of all nodes: {'vm1': 301.82, 'vm2': 392.34, 'vm3': 302.7}
+2026-02-02 14:35:55,680 Actual placement: Workload carbon-aware-e27d15a9 on node vm1
+2026-02-02 14:36:05,826 Workload: carbon-aware-b57beb1a | Recommended node: vm3 | Average carbon intensity of recommended node: 303.46 | Average carbon intensity of all nodes: {'vm1': 306.44, 'vm2': 400.14, 'vm3': 303.46}
+2026-02-02 14:36:05,830 Actual placement: Workload carbon-aware-b57beb1a on node vm2
+2026-02-02 14:36:15,994 Workload: carbon-aware-dc1ca4f0 | Recommended node: vm3 | Average carbon intensity of recommended node: 303.46 | Average carbon intensity of all nodes: {'vm1': 306.44, 'vm2': 400.14, 'vm3': 303.46}
+2026-02-02 14:36:15,998 Actual placement: Workload carbon-aware-dc1ca4f0 on node vm3
+2026-02-02 14:36:26,146 Workload: carbon-aware-15e92a47 | Recommended node: vm3 | Average carbon intensity of recommended node: 303.46 | Average carbon intensity of all nodes: {'vm1': 306.44, 'vm2': 400.14, 'vm3': 303.46}
+2026-02-02 14:36:26,162 Actual placement: Workload carbon-aware-15e92a47 on node vm2
+2026-02-02 14:36:36,486 Workload: carbon-aware-bb74b31e | Recommended node: vm3 | Average carbon intensity of recommended node: 303.46 | Average carbon intensity of all nodes: {'vm1': 306.44, 'vm2': 400.14, 'vm3': 303.46}
+2026-02-02 14:36:36,489 Actual placement: Workload carbon-aware-bb74b31e on node vm2
+2026-02-02 14:36:46,824 Workload: carbon-aware-9a4bfe54 | Recommended node: vm3 | Average carbon intensity of recommended node: 303.46 | Average carbon intensity of all nodes: {'vm1': 306.44, 'vm2': 400.14, 'vm3': 303.46}
+2026-02-02 14:36:46,830 Actual placement: Workload carbon-aware-9a4bfe54 on node vm3
+2026-02-02 14:36:57,006 Workload: carbon-aware-910e2c9e | Recommended node: vm3 | Average carbon intensity of recommended node: 303.46 | Average carbon intensity of all nodes: {'vm1': 306.44, 'vm2': 400.14, 'vm3': 303.46}
+2026-02-02 14:36:57,010 Actual placement: Workload carbon-aware-910e2c9e on node vm2
+2026-02-02 14:37:07,169 Workload: carbon-aware-bec827dc | Recommended node: vm3 | Average carbon intensity of recommended node: 299.06 | Average carbon intensity of all nodes: {'vm1': 315.07, 'vm2': 375.59, 'vm3': 299.06}
+2026-02-02 14:37:07,174 Actual placement: Workload carbon-aware-bec827dc on node vm1
+2026-02-02 14:37:17,332 Workload: carbon-aware-7d7a31b1 | Recommended node: vm3 | Average carbon intensity of recommended node: 299.06 | Average carbon intensity of all nodes: {'vm1': 315.07, 'vm2': 375.59, 'vm3': 299.06}
+2026-02-02 14:37:17,334 Actual placement: Workload carbon-aware-7d7a31b1 on node vm3
+2026-02-02 14:37:27,478 Workload: carbon-aware-3e4eddc0 | Recommended node: vm3 | Average carbon intensity of recommended node: 299.06 | Average carbon intensity of all nodes: {'vm1': 315.07, 'vm2': 375.59, 'vm3': 299.06}
+2026-02-02 14:37:27,480 Actual placement: Workload carbon-aware-3e4eddc0 on node vm2
+2026-02-02 14:37:37,639 Workload: carbon-aware-37a9d7fd | Recommended node: vm3 | Average carbon intensity of recommended node: 299.06 | Average carbon intensity of all nodes: {'vm1': 315.07, 'vm2': 375.59, 'vm3': 299.06}
+2026-02-02 14:37:37,646 Actual placement: Workload carbon-aware-37a9d7fd on node vm1
+2026-02-02 14:37:47,986 Workload: carbon-aware-142239a8 | Recommended node: vm3 | Average carbon intensity of recommended node: 299.06 | Average carbon intensity of all nodes: {'vm1': 315.07, 'vm2': 375.59, 'vm3': 299.06}
+2026-02-02 14:37:47,990 Actual placement: Workload carbon-aware-142239a8 on node vm2
+2026-02-02 14:37:58,179 Workload: carbon-aware-90705490 | Recommended node: vm3 | Average carbon intensity of recommended node: 299.06 | Average carbon intensity of all nodes: {'vm1': 315.07, 'vm2': 375.59, 'vm3': 299.06}
+2026-02-02 14:37:58,183 Actual placement: Workload carbon-aware-90705490 on node vm3
+2026-02-02 14:38:08,530 Workload: carbon-aware-91d7c185 | Recommended node: vm3 | Average carbon intensity of recommended node: 290.62 | Average carbon intensity of all nodes: {'vm1': 335.41, 'vm2': 335.72, 'vm3': 290.62}
+2026-02-02 14:38:08,534 Actual placement: Workload carbon-aware-91d7c185 on node vm2
+2026-02-02 14:38:18,699 Workload: carbon-aware-621103dc | Recommended node: vm3 | Average carbon intensity of recommended node: 290.62 | Average carbon intensity of all nodes: {'vm1': 335.41, 'vm2': 335.72, 'vm3': 290.62}
+2026-02-02 14:38:18,704 Actual placement: Workload carbon-aware-621103dc on node vm3
+2026-02-02 14:38:28,846 Workload: carbon-aware-d5c01307 | Recommended node: vm3 | Average carbon intensity of recommended node: 290.62 | Average carbon intensity of all nodes: {'vm1': 335.41, 'vm2': 335.72, 'vm3': 290.62}
+2026-02-02 14:38:28,851 Actual placement: Workload carbon-aware-d5c01307 on node vm2
+2026-02-02 14:38:39,185 Workload: carbon-aware-4853c120 | Recommended node: vm3 | Average carbon intensity of recommended node: 290.62 | Average carbon intensity of all nodes: {'vm1': 335.41, 'vm2': 335.72, 'vm3': 290.62}
+2026-02-02 14:38:39,185 Actual placement: Workload carbon-aware-4853c120 on node vm2
+2026-02-02 14:38:49,349 Workload: carbon-aware-fda01b08 | Recommended node: vm3 | Average carbon intensity of recommended node: 290.62 | Average carbon intensity of all nodes: {'vm1': 335.41, 'vm2': 335.72, 'vm3': 290.62}
+2026-02-02 14:38:49,352 Actual placement: Workload carbon-aware-fda01b08 on node vm1
+2026-02-02 14:38:59,496 Workload: carbon-aware-a8219e81 | Recommended node: vm3 | Average carbon intensity of recommended node: 290.62 | Average carbon intensity of all nodes: {'vm1': 335.41, 'vm2': 335.72, 'vm3': 290.62}
+2026-02-02 14:38:59,500 Actual placement: Workload carbon-aware-a8219e81 on node vm3
+2026-02-02 14:39:09,844 Workload: carbon-aware-766737b9 | Recommended node: vm3 | Average carbon intensity of recommended node: 269.78 | Average carbon intensity of all nodes: {'vm1': 359.12, 'vm2': 329.41, 'vm3': 269.78}
+2026-02-02 14:39:09,848 Actual placement: Workload carbon-aware-766737b9 on node vm2
+2026-02-02 14:39:20,183 Workload: carbon-aware-b205c4a3 | Recommended node: vm3 | Average carbon intensity of recommended node: 269.78 | Average carbon intensity of all nodes: {'vm1': 359.12, 'vm2': 329.41, 'vm3': 269.78}
+2026-02-02 14:39:20,188 Actual placement: Workload carbon-aware-b205c4a3 on node vm2
+2026-02-02 14:39:30,510 Workload: carbon-aware-2550aa79 | Recommended node: vm3 | Average carbon intensity of recommended node: 269.78 | Average carbon intensity of all nodes: {'vm1': 359.12, 'vm2': 329.41, 'vm3': 269.78}
+2026-02-02 14:39:30,513 Actual placement: Workload carbon-aware-2550aa79 on node vm3
+2026-02-02 14:39:40,678 Workload: carbon-aware-926a3a3b | Recommended node: vm3 | Average carbon intensity of recommended node: 269.78 | Average carbon intensity of all nodes: {'vm1': 359.12, 'vm2': 329.41, 'vm3': 269.78}
+2026-02-02 14:39:40,681 Actual placement: Workload carbon-aware-926a3a3b on node vm3
+2026-02-02 14:39:50,851 Workload: carbon-aware-0241b279 | Recommended node: vm3 | Average carbon intensity of recommended node: 269.78 | Average carbon intensity of all nodes: {'vm1': 359.12, 'vm2': 329.41, 'vm3': 269.78}
+2026-02-02 14:39:50,856 Actual placement: Workload carbon-aware-0241b279 on node vm1
+2026-02-02 14:40:01,004 Workload: carbon-aware-55ff1296 | Recommended node: vm3 | Average carbon intensity of recommended node: 261.25 | Average carbon intensity of all nodes: {'vm1': 387.36, 'vm2': 351.86, 'vm3': 261.25}
+2026-02-02 14:40:01,009 Actual placement: Workload carbon-aware-55ff1296 on node vm2
+2026-02-02 14:40:11,164 Workload: carbon-aware-0284e540 | Recommended node: vm3 | Average carbon intensity of recommended node: 261.25 | Average carbon intensity of all nodes: {'vm1': 387.36, 'vm2': 351.86, 'vm3': 261.25}
+2026-02-02 14:40:11,168 Actual placement: Workload carbon-aware-0284e540 on node vm2
+2026-02-02 14:40:21,330 Workload: carbon-aware-85b7010f | Recommended node: vm3 | Average carbon intensity of recommended node: 261.25 | Average carbon intensity of all nodes: {'vm1': 387.36, 'vm2': 351.86, 'vm3': 261.25}
+2026-02-02 14:40:21,335 Actual placement: Workload carbon-aware-85b7010f on node vm1
+2026-02-02 14:40:31,658 Workload: carbon-aware-efee9cde | Recommended node: vm3 | Average carbon intensity of recommended node: 261.25 | Average carbon intensity of all nodes: {'vm1': 387.36, 'vm2': 351.86, 'vm3': 261.25}
+2026-02-02 14:40:31,663 Actual placement: Workload carbon-aware-efee9cde on node vm3
+2026-02-02 14:40:41,994 Workload: carbon-aware-ca4afe82 | Recommended node: vm3 | Average carbon intensity of recommended node: 261.25 | Average carbon intensity of all nodes: {'vm1': 387.36, 'vm2': 351.86, 'vm3': 261.25}
+2026-02-02 14:40:41,998 Actual placement: Workload carbon-aware-ca4afe82 on node vm2
+2026-02-02 14:40:52,152 Workload: carbon-aware-1ff43f4a | Recommended node: vm3 | Average carbon intensity of recommended node: 261.25 | Average carbon intensity of all nodes: {'vm1': 387.36, 'vm2': 351.86, 'vm3': 261.25}
+2026-02-02 14:40:52,158 Actual placement: Workload carbon-aware-1ff43f4a on node vm2
+2026-02-02 14:41:02,306 Workload: carbon-aware-c3f24d63 | Recommended node: vm3 | Average carbon intensity of recommended node: 263.63 | Average carbon intensity of all nodes: {'vm1': 415.93, 'vm2': 374.66, 'vm3': 263.63}
+2026-02-02 14:41:02,311 Actual placement: Workload carbon-aware-c3f24d63 on node vm2
+2026-02-02 14:41:12,453 Workload: carbon-aware-edf222c2 | Recommended node: vm3 | Average carbon intensity of recommended node: 263.63 | Average carbon intensity of all nodes: {'vm1': 415.93, 'vm2': 374.66, 'vm3': 263.63}
+2026-02-02 14:41:12,457 Actual placement: Workload carbon-aware-edf222c2 on node vm3
+2026-02-02 14:41:22,799 Workload: carbon-aware-85ca4ada | Recommended node: vm3 | Average carbon intensity of recommended node: 263.63 | Average carbon intensity of all nodes: {'vm1': 415.93, 'vm2': 374.66, 'vm3': 263.63}
+2026-02-02 14:41:22,805 Actual placement: Workload carbon-aware-85ca4ada on node vm1
+2026-02-02 14:41:33,132 Workload: carbon-aware-ce3662a0 | Recommended node: vm3 | Average carbon intensity of recommended node: 263.63 | Average carbon intensity of all nodes: {'vm1': 415.93, 'vm2': 374.66, 'vm3': 263.63}
+2026-02-02 14:41:33,136 Actual placement: Workload carbon-aware-ce3662a0 on node vm2
+2026-02-02 14:41:43,461 Workload: carbon-aware-bc30624f | Recommended node: vm3 | Average carbon intensity of recommended node: 263.63 | Average carbon intensity of all nodes: {'vm1': 415.93, 'vm2': 374.66, 'vm3': 263.63}
+2026-02-02 14:41:43,466 Actual placement: Workload carbon-aware-bc30624f on node vm2
+2026-02-02 14:41:53,634 Workload: carbon-aware-332c2602 | Recommended node: vm3 | Average carbon intensity of recommended node: 263.63 | Average carbon intensity of all nodes: {'vm1': 415.93, 'vm2': 374.66, 'vm3': 263.63}
+2026-02-02 14:41:53,639 Actual placement: Workload carbon-aware-332c2602 on node vm2
+2026-02-02 14:42:03,783 Workload: carbon-aware-4a5c88ee | Recommended node: vm3 | Average carbon intensity of recommended node: 288.95 | Average carbon intensity of all nodes: {'vm1': 437.98, 'vm2': 384.55, 'vm3': 288.95}
+2026-02-02 14:42:03,786 Actual placement: Workload carbon-aware-4a5c88ee on node vm3
+2026-02-02 14:42:14,119 Workload: carbon-aware-86299f61 | Recommended node: vm3 | Average carbon intensity of recommended node: 288.95 | Average carbon intensity of all nodes: {'vm1': 437.98, 'vm2': 384.55, 'vm3': 288.95}
+2026-02-02 14:42:14,124 Actual placement: Workload carbon-aware-86299f61 on node vm1
+2026-02-02 14:42:24,470 Workload: carbon-aware-6c96efbb | Recommended node: vm3 | Average carbon intensity of recommended node: 288.95 | Average carbon intensity of all nodes: {'vm1': 437.98, 'vm2': 384.55, 'vm3': 288.95}
+2026-02-02 14:42:24,474 Actual placement: Workload carbon-aware-6c96efbb on node vm2
+2026-02-02 14:42:34,615 Workload: carbon-aware-68abcf1d | Recommended node: vm3 | Average carbon intensity of recommended node: 288.95 | Average carbon intensity of all nodes: {'vm1': 437.98, 'vm2': 384.55, 'vm3': 288.95}
+2026-02-02 14:42:34,629 Actual placement: Workload carbon-aware-68abcf1d on node vm3
+2026-02-02 14:42:44,794 Workload: carbon-aware-cfa87d3b | Recommended node: vm3 | Average carbon intensity of recommended node: 288.95 | Average carbon intensity of all nodes: {'vm1': 437.98, 'vm2': 384.55, 'vm3': 288.95}
+2026-02-02 14:42:44,799 Actual placement: Workload carbon-aware-cfa87d3b on node vm2
+2026-02-02 14:42:54,965 Workload: carbon-aware-94793dc6 | Recommended node: vm3 | Average carbon intensity of recommended node: 288.95 | Average carbon intensity of all nodes: {'vm1': 437.98, 'vm2': 384.55, 'vm3': 288.95}
+2026-02-02 14:42:54,968 Actual placement: Workload carbon-aware-94793dc6 on node vm3
+2026-02-02 14:43:05,118 Workload: carbon-aware-dd6a9336 | Recommended node: vm3 | Average carbon intensity of recommended node: 366.3 | Average carbon intensity of all nodes: {'vm1': 411.0, 'vm2': 382.49, 'vm3': 366.3}
+2026-02-02 14:43:05,122 Actual placement: Workload carbon-aware-dd6a9336 on node vm2
+2026-02-02 14:43:15,277 Workload: carbon-aware-34cecfbd | Recommended node: vm3 | Average carbon intensity of recommended node: 366.3 | Average carbon intensity of all nodes: {'vm1': 411.0, 'vm2': 382.49, 'vm3': 366.3}
+2026-02-02 14:43:15,281 Actual placement: Workload carbon-aware-34cecfbd on node vm2
+2026-02-02 14:43:25,440 Workload: carbon-aware-1ee3e069 | Recommended node: vm3 | Average carbon intensity of recommended node: 366.3 | Average carbon intensity of all nodes: {'vm1': 411.0, 'vm2': 382.49, 'vm3': 366.3}
+2026-02-02 14:43:25,444 Actual placement: Workload carbon-aware-1ee3e069 on node vm3
+2026-02-02 14:43:35,589 Workload: carbon-aware-6deec27b | Recommended node: vm3 | Average carbon intensity of recommended node: 366.3 | Average carbon intensity of all nodes: {'vm1': 411.0, 'vm2': 382.49, 'vm3': 366.3}
+2026-02-02 14:43:35,592 Actual placement: Workload carbon-aware-6deec27b on node vm2
+2026-02-02 14:43:45,748 Workload: carbon-aware-2f95b2a1 | Recommended node: vm3 | Average carbon intensity of recommended node: 366.3 | Average carbon intensity of all nodes: {'vm1': 411.0, 'vm2': 382.49, 'vm3': 366.3}
+2026-02-02 14:43:45,752 Actual placement: Workload carbon-aware-2f95b2a1 on node vm2
+2026-02-02 14:43:55,923 Workload: carbon-aware-d82bd219 | Recommended node: vm3 | Average carbon intensity of recommended node: 366.3 | Average carbon intensity of all nodes: {'vm1': 411.0, 'vm2': 382.49, 'vm3': 366.3}
+2026-02-02 14:43:55,930 Actual placement: Workload carbon-aware-d82bd219 on node vm1
+2026-02-02 14:44:06,077 Workload: carbon-aware-76daf5c9 | Recommended node: vm3 | Average carbon intensity of recommended node: 372.19 | Average carbon intensity of all nodes: {'vm1': 388.02, 'vm2': 383.16, 'vm3': 372.19}
+2026-02-02 14:44:06,081 Actual placement: Workload carbon-aware-76daf5c9 on node vm3
+2026-02-02 14:44:16,454 Workload: carbon-aware-3194ff04 | Recommended node: vm3 | Average carbon intensity of recommended node: 372.19 | Average carbon intensity of all nodes: {'vm1': 388.02, 'vm2': 383.16, 'vm3': 372.19}
+2026-02-02 14:44:16,455 Actual placement: Workload carbon-aware-3194ff04 on node vm2
+2026-02-02 14:44:26,802 Workload: carbon-aware-2677397a | Recommended node: vm3 | Average carbon intensity of recommended node: 372.19 | Average carbon intensity of all nodes: {'vm1': 388.02, 'vm2': 383.16, 'vm3': 372.19}
+2026-02-02 14:44:26,808 Actual placement: Workload carbon-aware-2677397a on node vm2
+2026-02-02 14:44:36,950 Workload: carbon-aware-d12b95fd | Recommended node: vm3 | Average carbon intensity of recommended node: 372.19 | Average carbon intensity of all nodes: {'vm1': 388.02, 'vm2': 383.16, 'vm3': 372.19}
+2026-02-02 14:44:36,954 Actual placement: Workload carbon-aware-d12b95fd on node vm3
+2026-02-02 14:44:47,117 Workload: carbon-aware-8bd91d00 | Recommended node: vm3 | Average carbon intensity of recommended node: 372.19 | Average carbon intensity of all nodes: {'vm1': 388.02, 'vm2': 383.16, 'vm3': 372.19}
+2026-02-02 14:44:47,122 Actual placement: Workload carbon-aware-8bd91d00 on node vm3
+2026-02-02 14:44:57,478 Workload: carbon-aware-20cf7293 | Recommended node: vm3 | Average carbon intensity of recommended node: 372.19 | Average carbon intensity of all nodes: {'vm1': 388.02, 'vm2': 383.16, 'vm3': 372.19}
+2026-02-02 14:44:57,479 Actual placement: Workload carbon-aware-20cf7293 on node vm1
+2026-02-02 14:45:07,634 Workload: carbon-aware-5a22b428 | Recommended node: vm3 | Average carbon intensity of recommended node: 363.43 | Average carbon intensity of all nodes: {'vm1': 379.84, 'vm2': 375.03, 'vm3': 363.43}
+2026-02-02 14:45:07,636 Actual placement: Workload carbon-aware-5a22b428 on node vm2
+2026-02-02 14:45:17,797 Workload: carbon-aware-c96fc0de | Recommended node: vm3 | Average carbon intensity of recommended node: 363.43 | Average carbon intensity of all nodes: {'vm1': 379.84, 'vm2': 375.03, 'vm3': 363.43}
+2026-02-02 14:45:17,801 Actual placement: Workload carbon-aware-c96fc0de on node vm2
+2026-02-02 14:45:27,956 Workload: carbon-aware-9e0cecdc | Recommended node: vm3 | Average carbon intensity of recommended node: 363.43 | Average carbon intensity of all nodes: {'vm1': 379.84, 'vm2': 375.03, 'vm3': 363.43}
+2026-02-02 14:45:27,960 Actual placement: Workload carbon-aware-9e0cecdc on node vm3
+2026-02-02 14:45:38,103 Workload: carbon-aware-9d37cb50 | Recommended node: vm3 | Average carbon intensity of recommended node: 363.43 | Average carbon intensity of all nodes: {'vm1': 379.84, 'vm2': 375.03, 'vm3': 363.43}
+2026-02-02 14:45:38,106 Actual placement: Workload carbon-aware-9d37cb50 on node vm2
+2026-02-02 14:45:48,268 Workload: carbon-aware-05b71493 | Recommended node: vm3 | Average carbon intensity of recommended node: 363.43 | Average carbon intensity of all nodes: {'vm1': 379.84, 'vm2': 375.03, 'vm3': 363.43}
+2026-02-02 14:45:48,268 Actual placement: Workload carbon-aware-05b71493 on node vm3
+2026-02-02 14:45:58,449 Workload: carbon-aware-01d70c79 | Recommended node: vm3 | Average carbon intensity of recommended node: 363.43 | Average carbon intensity of all nodes: {'vm1': 379.84, 'vm2': 375.03, 'vm3': 363.43}
+2026-02-02 14:45:58,449 Actual placement: Workload carbon-aware-01d70c79 on node vm2
+2026-02-02 14:46:08,600 Workload: carbon-aware-12177df7 | Recommended node: vm3 | Average carbon intensity of recommended node: 362.35 | Average carbon intensity of all nodes: {'vm1': 362.41, 'vm2': 381.22, 'vm3': 362.35}
+2026-02-02 14:46:08,603 Actual placement: Workload carbon-aware-12177df7 on node vm1
+2026-02-02 14:46:18,759 Workload: carbon-aware-6bceceef | Recommended node: vm3 | Average carbon intensity of recommended node: 362.35 | Average carbon intensity of all nodes: {'vm1': 362.41, 'vm2': 381.22, 'vm3': 362.35}
+2026-02-02 14:46:18,759 Actual placement: Workload carbon-aware-6bceceef on node vm2
+2026-02-02 14:46:28,913 Workload: carbon-aware-3a3e6674 | Recommended node: vm3 | Average carbon intensity of recommended node: 362.35 | Average carbon intensity of all nodes: {'vm1': 362.41, 'vm2': 381.22, 'vm3': 362.35}
+2026-02-02 14:46:28,919 Actual placement: Workload carbon-aware-3a3e6674 on node vm2
+2026-02-02 14:46:39,064 Workload: carbon-aware-fdec16f4 | Recommended node: vm3 | Average carbon intensity of recommended node: 362.35 | Average carbon intensity of all nodes: {'vm1': 362.41, 'vm2': 381.22, 'vm3': 362.35}
+2026-02-02 14:46:39,068 Actual placement: Workload carbon-aware-fdec16f4 on node vm3
+2026-02-02 14:46:49,233 Workload: carbon-aware-57b6d378 | Recommended node: vm3 | Average carbon intensity of recommended node: 362.35 | Average carbon intensity of all nodes: {'vm1': 362.41, 'vm2': 381.22, 'vm3': 362.35}
+2026-02-02 14:46:49,237 Actual placement: Workload carbon-aware-57b6d378 on node vm1
+2026-02-02 14:47:00,088 Workload: carbon-aware-675a2c98 | Recommended node: vm1 | Average carbon intensity of recommended node: 354.12 | Average carbon intensity of all nodes: {'vm1': 354.12, 'vm2': 385.78, 'vm3': 370.97}
+2026-02-02 14:47:00,090 Actual placement: Workload carbon-aware-675a2c98 on node vm2
+2026-02-02 14:47:10,243 Workload: carbon-aware-a744f3b8 | Recommended node: vm1 | Average carbon intensity of recommended node: 354.12 | Average carbon intensity of all nodes: {'vm1': 354.12, 'vm2': 385.78, 'vm3': 370.97}
+2026-02-02 14:47:10,246 Actual placement: Workload carbon-aware-a744f3b8 on node vm2
+2026-02-02 14:47:20,576 Workload: carbon-aware-49da2b44 | Recommended node: vm1 | Average carbon intensity of recommended node: 354.12 | Average carbon intensity of all nodes: {'vm1': 354.12, 'vm2': 385.78, 'vm3': 370.97}
+2026-02-02 14:47:20,579 Actual placement: Workload carbon-aware-49da2b44 on node vm3
+2026-02-02 14:47:30,740 Workload: carbon-aware-a35e5e17 | Recommended node: vm1 | Average carbon intensity of recommended node: 354.12 | Average carbon intensity of all nodes: {'vm1': 354.12, 'vm2': 385.78, 'vm3': 370.97}
+2026-02-02 14:47:30,747 Actual placement: Workload carbon-aware-a35e5e17 on node vm2
+2026-02-02 14:47:41,077 Workload: carbon-aware-9cdf88bf | Recommended node: vm1 | Average carbon intensity of recommended node: 354.12 | Average carbon intensity of all nodes: {'vm1': 354.12, 'vm2': 385.78, 'vm3': 370.97}
+2026-02-02 14:47:41,080 Actual placement: Workload carbon-aware-9cdf88bf on node vm3
+2026-02-02 14:47:51,235 Workload: carbon-aware-aedc29eb | Recommended node: vm1 | Average carbon intensity of recommended node: 354.12 | Average carbon intensity of all nodes: {'vm1': 354.12, 'vm2': 385.78, 'vm3': 370.97}
+2026-02-02 14:47:51,237 Actual placement: Workload carbon-aware-aedc29eb on node vm2
+2026-02-02 14:48:01,472 Workload: carbon-aware-280b0edd | Recommended node: vm1 | Average carbon intensity of recommended node: 345.44 | Average carbon intensity of all nodes: {'vm1': 345.44, 'vm2': 385.56, 'vm3': 380.28}
+2026-02-02 14:48:01,475 Actual placement: Workload carbon-aware-280b0edd on node vm1
+2026-02-02 14:48:11,618 Workload: carbon-aware-ca9ebe7e | Recommended node: vm1 | Average carbon intensity of recommended node: 345.44 | Average carbon intensity of all nodes: {'vm1': 345.44, 'vm2': 385.56, 'vm3': 380.28}
+2026-02-02 14:48:11,620 Actual placement: Workload carbon-aware-ca9ebe7e on node vm2
+2026-02-02 14:48:21,780 Workload: carbon-aware-e75a95e8 | Recommended node: vm1 | Average carbon intensity of recommended node: 345.44 | Average carbon intensity of all nodes: {'vm1': 345.44, 'vm2': 385.56, 'vm3': 380.28}
+2026-02-02 14:48:21,783 Actual placement: Workload carbon-aware-e75a95e8 on node vm3
+2026-02-02 14:48:31,951 Workload: carbon-aware-50e25489 | Recommended node: vm1 | Average carbon intensity of recommended node: 345.44 | Average carbon intensity of all nodes: {'vm1': 345.44, 'vm2': 385.56, 'vm3': 380.28}
+2026-02-02 14:48:31,957 Actual placement: Workload carbon-aware-50e25489 on node vm1
+2026-02-02 14:48:42,115 Workload: carbon-aware-10a8c4ab | Recommended node: vm1 | Average carbon intensity of recommended node: 345.44 | Average carbon intensity of all nodes: {'vm1': 345.44, 'vm2': 385.56, 'vm3': 380.28}
+2026-02-02 14:48:42,117 Actual placement: Workload carbon-aware-10a8c4ab on node vm2
+2026-02-02 14:48:52,286 Workload: carbon-aware-5116e901 | Recommended node: vm1 | Average carbon intensity of recommended node: 345.44 | Average carbon intensity of all nodes: {'vm1': 345.44, 'vm2': 385.56, 'vm3': 380.28}
+2026-02-02 14:48:52,290 Actual placement: Workload carbon-aware-5116e901 on node vm2
+2026-02-02 14:49:02,467 Workload: carbon-aware-c9f643ff | Recommended node: vm1 | Average carbon intensity of recommended node: 350.51 | Average carbon intensity of all nodes: {'vm1': 350.51, 'vm2': 403.05, 'vm3': 365.9}
+2026-02-02 14:49:02,471 Actual placement: Workload carbon-aware-c9f643ff on node vm3
+2026-02-02 14:49:12,614 Workload: carbon-aware-65f36e5b | Recommended node: vm1 | Average carbon intensity of recommended node: 350.51 | Average carbon intensity of all nodes: {'vm1': 350.51, 'vm2': 403.05, 'vm3': 365.9}
+2026-02-02 14:49:12,621 Actual placement: Workload carbon-aware-65f36e5b on node vm3
+2026-02-02 14:49:22,773 Workload: carbon-aware-36c70895 | Recommended node: vm1 | Average carbon intensity of recommended node: 350.51 | Average carbon intensity of all nodes: {'vm1': 350.51, 'vm2': 403.05, 'vm3': 365.9}
+2026-02-02 14:49:22,778 Actual placement: Workload carbon-aware-36c70895 on node vm2
+2026-02-02 14:49:32,931 Workload: carbon-aware-0979a534 | Recommended node: vm1 | Average carbon intensity of recommended node: 350.51 | Average carbon intensity of all nodes: {'vm1': 350.51, 'vm2': 403.05, 'vm3': 365.9}
+2026-02-02 14:49:32,935 Actual placement: Workload carbon-aware-0979a534 on node vm1
+2026-02-02 14:49:43,073 Workload: carbon-aware-ceab61eb | Recommended node: vm1 | Average carbon intensity of recommended node: 350.51 | Average carbon intensity of all nodes: {'vm1': 350.51, 'vm2': 403.05, 'vm3': 365.9}
+2026-02-02 14:49:43,075 Actual placement: Workload carbon-aware-ceab61eb on node vm2
+2026-02-02 14:49:53,412 Workload: carbon-aware-ef71fa08 | Recommended node: vm1 | Average carbon intensity of recommended node: 350.51 | Average carbon intensity of all nodes: {'vm1': 350.51, 'vm2': 403.05, 'vm3': 365.9}
+2026-02-02 14:49:53,417 Actual placement: Workload carbon-aware-ef71fa08 on node vm3
+2026-02-02 14:50:03,603 Workload: carbon-aware-50ff9385 | Recommended node: vm3 | Average carbon intensity of recommended node: 348.72 | Average carbon intensity of all nodes: {'vm1': 360.6, 'vm2': 394.22, 'vm3': 348.72}
+2026-02-02 14:50:03,606 Actual placement: Workload carbon-aware-50ff9385 on node vm2
+2026-02-02 14:50:13,943 Workload: carbon-aware-135e9542 | Recommended node: vm3 | Average carbon intensity of recommended node: 348.72 | Average carbon intensity of all nodes: {'vm1': 360.6, 'vm2': 394.22, 'vm3': 348.72}
+2026-02-02 14:50:13,950 Actual placement: Workload carbon-aware-135e9542 on node vm1
+2026-02-02 14:50:24,279 Workload: carbon-aware-86314912 | Recommended node: vm3 | Average carbon intensity of recommended node: 348.72 | Average carbon intensity of all nodes: {'vm1': 360.6, 'vm2': 394.22, 'vm3': 348.72}
+2026-02-02 14:50:24,281 Actual placement: Workload carbon-aware-86314912 on node vm2
+2026-02-02 14:50:34,629 Workload: carbon-aware-c432a00b | Recommended node: vm3 | Average carbon intensity of recommended node: 348.72 | Average carbon intensity of all nodes: {'vm1': 360.6, 'vm2': 394.22, 'vm3': 348.72}
+2026-02-02 14:50:34,632 Actual placement: Workload carbon-aware-c432a00b on node vm3
+2026-02-02 14:50:44,958 Workload: carbon-aware-c5e998f7 | Recommended node: vm3 | Average carbon intensity of recommended node: 348.72 | Average carbon intensity of all nodes: {'vm1': 360.6, 'vm2': 394.22, 'vm3': 348.72}
+2026-02-02 14:50:44,960 Actual placement: Workload carbon-aware-c5e998f7 on node vm2
+2026-02-02 14:50:55,297 Workload: carbon-aware-84f5c677 | Recommended node: vm3 | Average carbon intensity of recommended node: 348.72 | Average carbon intensity of all nodes: {'vm1': 360.6, 'vm2': 394.22, 'vm3': 348.72}
+2026-02-02 14:50:55,300 Actual placement: Workload carbon-aware-84f5c677 on node vm2
+2026-02-02 14:51:05,468 Workload: carbon-aware-b2181a03 | Recommended node: vm3 | Average carbon intensity of recommended node: 352.48 | Average carbon intensity of all nodes: {'vm1': 372.99, 'vm2': 409.06, 'vm3': 352.48}
+2026-02-02 14:51:05,469 Actual placement: Workload carbon-aware-b2181a03 on node vm3
+2026-02-02 14:51:15,812 Workload: carbon-aware-a69ada73 | Recommended node: vm3 | Average carbon intensity of recommended node: 352.48 | Average carbon intensity of all nodes: {'vm1': 372.99, 'vm2': 409.06, 'vm3': 352.48}
+2026-02-02 14:51:15,815 Actual placement: Workload carbon-aware-a69ada73 on node vm1
+2026-02-02 14:51:26,139 Workload: carbon-aware-cc3ee7a5 | Recommended node: vm3 | Average carbon intensity of recommended node: 352.48 | Average carbon intensity of all nodes: {'vm1': 372.99, 'vm2': 409.06, 'vm3': 352.48}
+2026-02-02 14:51:26,142 Actual placement: Workload carbon-aware-cc3ee7a5 on node vm2
+2026-02-02 14:51:36,476 Workload: carbon-aware-db7c5718 | Recommended node: vm3 | Average carbon intensity of recommended node: 352.48 | Average carbon intensity of all nodes: {'vm1': 372.99, 'vm2': 409.06, 'vm3': 352.48}
+2026-02-02 14:51:36,485 Actual placement: Workload carbon-aware-db7c5718 on node vm2
+2026-02-02 14:51:46,811 Workload: carbon-aware-9ec2895b | Recommended node: vm3 | Average carbon intensity of recommended node: 352.48 | Average carbon intensity of all nodes: {'vm1': 372.99, 'vm2': 409.06, 'vm3': 352.48}
+2026-02-02 14:51:46,811 Actual placement: Workload carbon-aware-9ec2895b on node vm3
+2026-02-02 14:51:56,960 Workload: carbon-aware-f59471b5 | Recommended node: vm3 | Average carbon intensity of recommended node: 352.48 | Average carbon intensity of all nodes: {'vm1': 372.99, 'vm2': 409.06, 'vm3': 352.48}
+2026-02-02 14:51:56,964 Actual placement: Workload carbon-aware-f59471b5 on node vm3
+2026-02-02 14:52:07,134 Workload: carbon-aware-8b230e4a | Recommended node: vm1 | Average carbon intensity of recommended node: 361.22 | Average carbon intensity of all nodes: {'vm1': 361.22, 'vm2': 386.09, 'vm3': 378.53}
+2026-02-02 14:52:07,138 Actual placement: Workload carbon-aware-8b230e4a on node vm2
+2026-02-02 14:52:17,286 Workload: carbon-aware-5a6de0dd | Recommended node: vm1 | Average carbon intensity of recommended node: 361.22 | Average carbon intensity of all nodes: {'vm1': 361.22, 'vm2': 386.09, 'vm3': 378.53}
+2026-02-02 14:52:17,289 Actual placement: Workload carbon-aware-5a6de0dd on node vm1
+2026-02-02 14:52:27,622 Workload: carbon-aware-1288fd5e | Recommended node: vm1 | Average carbon intensity of recommended node: 361.22 | Average carbon intensity of all nodes: {'vm1': 361.22, 'vm2': 386.09, 'vm3': 378.53}
+2026-02-02 14:52:27,622 Actual placement: Workload carbon-aware-1288fd5e on node vm2
+2026-02-02 14:52:37,790 Workload: carbon-aware-76eef5d4 | Recommended node: vm1 | Average carbon intensity of recommended node: 361.22 | Average carbon intensity of all nodes: {'vm1': 361.22, 'vm2': 386.09, 'vm3': 378.53}
+2026-02-02 14:52:37,793 Actual placement: Workload carbon-aware-76eef5d4 on node vm3
+2026-02-02 14:52:48,141 Workload: carbon-aware-3ed0c6a7 | Recommended node: vm1 | Average carbon intensity of recommended node: 361.22 | Average carbon intensity of all nodes: {'vm1': 361.22, 'vm2': 386.09, 'vm3': 378.53}
+2026-02-02 14:52:48,144 Actual placement: Workload carbon-aware-3ed0c6a7 on node vm2
+2026-02-02 14:52:58,321 Workload: carbon-aware-44a9b8b9 | Recommended node: vm1 | Average carbon intensity of recommended node: 361.22 | Average carbon intensity of all nodes: {'vm1': 361.22, 'vm2': 386.09, 'vm3': 378.53}
+2026-02-02 14:52:58,325 Actual placement: Workload carbon-aware-44a9b8b9 on node vm3
+2026-02-02 14:53:08,500 Workload: carbon-aware-cb3aeabf | Recommended node: vm3 | Average carbon intensity of recommended node: 322.32 | Average carbon intensity of all nodes: {'vm1': 337.51, 'vm2': 382.44, 'vm3': 322.32}
+2026-02-02 14:53:08,503 Actual placement: Workload carbon-aware-cb3aeabf on node vm2
+2026-02-02 14:53:18,646 Workload: carbon-aware-37daf8ba | Recommended node: vm3 | Average carbon intensity of recommended node: 322.32 | Average carbon intensity of all nodes: {'vm1': 337.51, 'vm2': 382.44, 'vm3': 322.32}
+2026-02-02 14:53:18,652 Actual placement: Workload carbon-aware-37daf8ba on node vm1
+2026-02-02 14:53:28,803 Workload: carbon-aware-fc41e260 | Recommended node: vm3 | Average carbon intensity of recommended node: 322.32 | Average carbon intensity of all nodes: {'vm1': 337.51, 'vm2': 382.44, 'vm3': 322.32}
+2026-02-02 14:53:28,807 Actual placement: Workload carbon-aware-fc41e260 on node vm2
+2026-02-02 14:53:38,970 Workload: carbon-aware-a6c8bee5 | Recommended node: vm3 | Average carbon intensity of recommended node: 322.32 | Average carbon intensity of all nodes: {'vm1': 337.51, 'vm2': 382.44, 'vm3': 322.32}
+2026-02-02 14:53:38,973 Actual placement: Workload carbon-aware-a6c8bee5 on node vm3
+2026-02-02 14:53:49,129 Workload: carbon-aware-437bba62 | Recommended node: vm3 | Average carbon intensity of recommended node: 322.32 | Average carbon intensity of all nodes: {'vm1': 337.51, 'vm2': 382.44, 'vm3': 322.32}
+2026-02-02 14:53:49,134 Actual placement: Workload carbon-aware-437bba62 on node vm3
+2026-02-02 14:53:59,482 Workload: carbon-aware-0fc46734 | Recommended node: vm3 | Average carbon intensity of recommended node: 322.32 | Average carbon intensity of all nodes: {'vm1': 337.51, 'vm2': 382.44, 'vm3': 322.32}
+2026-02-02 14:53:59,482 Actual placement: Workload carbon-aware-0fc46734 on node vm2
+2026-02-02 14:54:09,644 Workload: carbon-aware-54b08e5a | Recommended node: vm3 | Average carbon intensity of recommended node: 312.88 | Average carbon intensity of all nodes: {'vm1': 315.46, 'vm2': 392.98, 'vm3': 312.88}
+2026-02-02 14:54:09,647 Actual placement: Workload carbon-aware-54b08e5a on node vm2
+2026-02-02 14:54:19,835 Workload: carbon-aware-16480ccf | Recommended node: vm3 | Average carbon intensity of recommended node: 312.88 | Average carbon intensity of all nodes: {'vm1': 315.46, 'vm2': 392.98, 'vm3': 312.88}
+2026-02-02 14:54:19,840 Actual placement: Workload carbon-aware-16480ccf on node vm3
+2026-02-02 14:54:30,003 Workload: carbon-aware-0ddf9b49 | Recommended node: vm3 | Average carbon intensity of recommended node: 312.88 | Average carbon intensity of all nodes: {'vm1': 315.46, 'vm2': 392.98, 'vm3': 312.88}
+2026-02-02 14:54:30,007 Actual placement: Workload carbon-aware-0ddf9b49 on node vm2
+2026-02-02 14:54:40,186 Workload: carbon-aware-f55e65e6 | Recommended node: vm3 | Average carbon intensity of recommended node: 312.88 | Average carbon intensity of all nodes: {'vm1': 315.46, 'vm2': 392.98, 'vm3': 312.88}
+2026-02-02 14:54:40,189 Actual placement: Workload carbon-aware-f55e65e6 on node vm3
+2026-02-02 14:54:50,326 Workload: carbon-aware-31a4d590 | Recommended node: vm3 | Average carbon intensity of recommended node: 312.88 | Average carbon intensity of all nodes: {'vm1': 315.46, 'vm2': 392.98, 'vm3': 312.88}
+2026-02-02 14:54:50,332 Actual placement: Workload carbon-aware-31a4d590 on node vm1
+2026-02-02 14:55:00,481 Workload: carbon-aware-93ac5c13 | Recommended node: vm1 | Average carbon intensity of recommended node: 292.62 | Average carbon intensity of all nodes: {'vm1': 292.62, 'vm2': 426.26, 'vm3': 311.79}
+2026-02-02 14:55:00,485 Actual placement: Workload carbon-aware-93ac5c13 on node vm2
+2026-02-02 14:55:10,645 Workload: carbon-aware-643365f1 | Recommended node: vm1 | Average carbon intensity of recommended node: 292.62 | Average carbon intensity of all nodes: {'vm1': 292.62, 'vm2': 426.26, 'vm3': 311.79}
+2026-02-02 14:55:10,646 Actual placement: Workload carbon-aware-643365f1 on node vm2
+2026-02-02 14:55:20,796 Workload: carbon-aware-6ac7528f | Recommended node: vm1 | Average carbon intensity of recommended node: 292.62 | Average carbon intensity of all nodes: {'vm1': 292.62, 'vm2': 426.26, 'vm3': 311.79}
+2026-02-02 14:55:20,800 Actual placement: Workload carbon-aware-6ac7528f on node vm2
+2026-02-02 14:55:31,141 Workload: carbon-aware-f3c9c948 | Recommended node: vm1 | Average carbon intensity of recommended node: 292.62 | Average carbon intensity of all nodes: {'vm1': 292.62, 'vm2': 426.26, 'vm3': 311.79}
+2026-02-02 14:55:31,148 Actual placement: Workload carbon-aware-f3c9c948 on node vm3
+2026-02-02 14:55:41,486 Workload: carbon-aware-cd764a92 | Recommended node: vm1 | Average carbon intensity of recommended node: 292.62 | Average carbon intensity of all nodes: {'vm1': 292.62, 'vm2': 426.26, 'vm3': 311.79}
+2026-02-02 14:55:41,490 Actual placement: Workload carbon-aware-cd764a92 on node vm2
+2026-02-02 14:55:51,633 Workload: carbon-aware-4465a477 | Recommended node: vm1 | Average carbon intensity of recommended node: 292.62 | Average carbon intensity of all nodes: {'vm1': 292.62, 'vm2': 426.26, 'vm3': 311.79}
+2026-02-02 14:55:51,641 Actual placement: Workload carbon-aware-4465a477 on node vm2
+2026-02-02 14:56:01,793 Workload: carbon-aware-d88201f1 | Recommended node: vm1 | Average carbon intensity of recommended node: 255.96 | Average carbon intensity of all nodes: {'vm1': 255.96, 'vm2': 431.89, 'vm3': 311.48}
+2026-02-02 14:56:01,797 Actual placement: Workload carbon-aware-d88201f1 on node vm1
+2026-02-02 14:56:11,972 Workload: carbon-aware-2738108b | Recommended node: vm1 | Average carbon intensity of recommended node: 255.96 | Average carbon intensity of all nodes: {'vm1': 255.96, 'vm2': 431.89, 'vm3': 311.48}
+2026-02-02 14:56:11,974 Actual placement: Workload carbon-aware-2738108b on node vm2
+2026-02-02 14:56:22,123 Workload: carbon-aware-0d2131a5 | Recommended node: vm1 | Average carbon intensity of recommended node: 255.96 | Average carbon intensity of all nodes: {'vm1': 255.96, 'vm2': 431.89, 'vm3': 311.48}
+2026-02-02 14:56:22,129 Actual placement: Workload carbon-aware-0d2131a5 on node vm3
+2026-02-02 14:56:32,283 Workload: carbon-aware-0aadfb2b | Recommended node: vm1 | Average carbon intensity of recommended node: 255.96 | Average carbon intensity of all nodes: {'vm1': 255.96, 'vm2': 431.89, 'vm3': 311.48}
+2026-02-02 14:56:32,286 Actual placement: Workload carbon-aware-0aadfb2b on node vm2
+2026-02-02 14:56:42,449 Workload: carbon-aware-8df5d8f1 | Recommended node: vm1 | Average carbon intensity of recommended node: 255.96 | Average carbon intensity of all nodes: {'vm1': 255.96, 'vm2': 431.89, 'vm3': 311.48}
+2026-02-02 14:56:42,452 Actual placement: Workload carbon-aware-8df5d8f1 on node vm3
+2026-02-02 14:56:52,778 Workload: carbon-aware-729713f0 | Recommended node: vm1 | Average carbon intensity of recommended node: 255.96 | Average carbon intensity of all nodes: {'vm1': 255.96, 'vm2': 431.89, 'vm3': 311.48}
+2026-02-02 14:56:52,781 Actual placement: Workload carbon-aware-729713f0 on node vm2
+2026-02-02 14:57:02,959 Workload: carbon-aware-b2b6bcad | Recommended node: vm1 | Average carbon intensity of recommended node: 235.08 | Average carbon intensity of all nodes: {'vm1': 235.08, 'vm2': 448.35, 'vm3': 313.1}
+2026-02-02 14:57:02,961 Actual placement: Workload carbon-aware-b2b6bcad on node vm2
+2026-02-02 14:57:13,122 Workload: carbon-aware-a6509017 | Recommended node: vm1 | Average carbon intensity of recommended node: 235.08 | Average carbon intensity of all nodes: {'vm1': 235.08, 'vm2': 448.35, 'vm3': 313.1}
+2026-02-02 14:57:13,126 Actual placement: Workload carbon-aware-a6509017 on node vm1
+2026-02-02 14:57:23,265 Workload: carbon-aware-7684b7ac | Recommended node: vm1 | Average carbon intensity of recommended node: 235.08 | Average carbon intensity of all nodes: {'vm1': 235.08, 'vm2': 448.35, 'vm3': 313.1}
+2026-02-02 14:57:23,268 Actual placement: Workload carbon-aware-7684b7ac on node vm3
+2026-02-02 14:57:33,413 Workload: carbon-aware-c89b9407 | Recommended node: vm1 | Average carbon intensity of recommended node: 235.08 | Average carbon intensity of all nodes: {'vm1': 235.08, 'vm2': 448.35, 'vm3': 313.1}
+2026-02-02 14:57:33,419 Actual placement: Workload carbon-aware-c89b9407 on node vm2
+2026-02-02 14:57:43,573 Workload: carbon-aware-82fe048c | Recommended node: vm1 | Average carbon intensity of recommended node: 235.08 | Average carbon intensity of all nodes: {'vm1': 235.08, 'vm2': 448.35, 'vm3': 313.1}
+2026-02-02 14:57:43,575 Actual placement: Workload carbon-aware-82fe048c on node vm2
+2026-02-02 14:57:53,900 Workload: carbon-aware-e18ca96c | Recommended node: vm1 | Average carbon intensity of recommended node: 235.08 | Average carbon intensity of all nodes: {'vm1': 235.08, 'vm2': 448.35, 'vm3': 313.1}
+2026-02-02 14:57:53,906 Actual placement: Workload carbon-aware-e18ca96c on node vm1
+2026-02-02 14:58:04,055 Workload: carbon-aware-6be7010b | Recommended node: vm1 | Average carbon intensity of recommended node: 227.61 | Average carbon intensity of all nodes: {'vm1': 227.61, 'vm2': 416.84, 'vm3': 311.46}
+2026-02-02 14:58:04,060 Actual placement: Workload carbon-aware-6be7010b on node vm2
+2026-02-02 14:58:14,399 Workload: carbon-aware-0e94170f | Recommended node: vm1 | Average carbon intensity of recommended node: 227.61 | Average carbon intensity of all nodes: {'vm1': 227.61, 'vm2': 416.84, 'vm3': 311.46}
+2026-02-02 14:58:14,403 Actual placement: Workload carbon-aware-0e94170f on node vm3
+2026-02-02 14:58:24,550 Workload: carbon-aware-c3d43349 | Recommended node: vm1 | Average carbon intensity of recommended node: 227.61 | Average carbon intensity of all nodes: {'vm1': 227.61, 'vm2': 416.84, 'vm3': 311.46}
+2026-02-02 14:58:24,554 Actual placement: Workload carbon-aware-c3d43349 on node vm3
+2026-02-02 14:58:34,895 Workload: carbon-aware-d8fbdd49 | Recommended node: vm1 | Average carbon intensity of recommended node: 227.61 | Average carbon intensity of all nodes: {'vm1': 227.61, 'vm2': 416.84, 'vm3': 311.46}
+2026-02-02 14:58:34,897 Actual placement: Workload carbon-aware-d8fbdd49 on node vm2
+2026-02-02 14:58:45,052 Workload: carbon-aware-dff16b9f | Recommended node: vm1 | Average carbon intensity of recommended node: 227.61 | Average carbon intensity of all nodes: {'vm1': 227.61, 'vm2': 416.84, 'vm3': 311.46}
+2026-02-02 14:58:45,055 Actual placement: Workload carbon-aware-dff16b9f on node vm3
+2026-02-02 14:58:55,198 Workload: carbon-aware-18bf76cb | Recommended node: vm1 | Average carbon intensity of recommended node: 227.61 | Average carbon intensity of all nodes: {'vm1': 227.61, 'vm2': 416.84, 'vm3': 311.46}
+2026-02-02 14:58:55,201 Actual placement: Workload carbon-aware-18bf76cb on node vm2
+2026-02-02 14:59:05,359 Workload: carbon-aware-8b259bc5 | Recommended node: vm1 | Average carbon intensity of recommended node: 233.09 | Average carbon intensity of all nodes: {'vm1': 233.09, 'vm2': 431.21, 'vm3': 303.29}
+2026-02-02 14:59:05,363 Actual placement: Workload carbon-aware-8b259bc5 on node vm2

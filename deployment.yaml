@@ -1,0 +1,36 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: carbon-aware-scheduler
+spec:
+  replicas: 1
+  strategy:
+    type: Recreate
+  selector:
+    matchLabels:
+      application: carbon-aware-scheduler
+  template:
+    metadata:
+      labels:
+        application: carbon-aware-scheduler
+    spec:
+      serviceAccountName: carbon-aware-account
+      nodeSelector:
+        kubernetes.io/hostname: "vm1"
+      containers:
+      - name: carbon-aware-scheduler
+        image: your-dockerhub-username/carbon-aware-scheduler:latest
+        imagePullPolicy: Always
+        env:
+        - name: CARBON_API_URL
+          value: "your-api-url-here"
+        - name: SCHEDULING_PERIOD
+          value: "10"
+        volumeMounts:
+        - name: logs
+          mountPath: /var/log/carbon-aware
+      volumes:
+      - name: logs
+        hostPath:
+          path: /tmp/carbon-aware-logs
+          type: DirectoryOrCreate

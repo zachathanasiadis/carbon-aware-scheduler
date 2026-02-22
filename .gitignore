@@ -1,0 +1,30 @@
+# Terraform
+*.tfstate
+*.tfstate.backup
+*.tfstate.lock.info
+.terraform/
+.terraform.lock.hcl
+terraform.tfvars
+
+# SSH keys
+*.pem
+*.pub
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Kubespray
+kubespray/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
