@@ -72,23 +72,8 @@ def create_pod() -> None:
             break
 
     if CARBON_AWARE:
-        pod_spec["spec"]["affinity"] = {
-            "nodeAffinity": {
-                "requiredDuringSchedulingIgnoredDuringExecution": {
-                    "nodeSelectorTerms": [
-                        {
-                            "matchExpressions": [
-                                {
-                                    "key": "kubernetes.io/hostname",
-                                    "operator": "In",
-                                    "values": [node],
-                                }
-                            ]
-                        }
-                    ]
-                }
-            }
-        }
+        pod_spec["spec"]["affinity"] = {"nodeAffinity": {"preferredDuringSchedulingIgnoredDuringExecution": [
+            {"weight": 100, "preference": {"matchExpressions": [{"key": "kubernetes.io/hostname", "operator": "In", "values": [node]}]}}]}}
 
     v1.create_namespaced_pod("default", pod_spec)
 
